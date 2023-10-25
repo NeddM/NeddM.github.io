@@ -49,8 +49,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Sobre mi
-    url:               /about/
+  # - title:             Sobre mi
+  #   url:               /about/
   - title:             Blog
     url:               /blog/
   - title:             Portfolio
