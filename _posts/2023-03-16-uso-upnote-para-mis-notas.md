@@ -4,6 +4,7 @@ title: Uso Upnote para mis notas
 description: >
   UpNote es un software que me ha ayudado mucho a mi organización personal.
 sitemap: false
+background: url('https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/84/4f/c4844f71-4832-f66c-5c49-03e2401bab7e/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/1200x630wa.png') center/cover
 hide_last_modified: true
 ---
 
