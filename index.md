@@ -1,47 +1,16 @@
 ---
 layout: page
-title: Thank You!
+title: Nedd Chairi Muñoz
 sitemap: false
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+Bienvenido a mi sitio web.
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+He creado esta web con el fin de compartir mis experiencias y conocimientos con todo el mundo al que le interese el mundo de la informática.
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+Mucha de la información relevante que encuentro en internet está en inglés, así que he decidido crear esta web en español, con el fin de llegar más a personas de habla hispana, y que el conocimiento se globalice en la medida de lo posible.
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
+Actualmente me trabajo en Banco Santander como DevSecOps. Me encargo de crear y mantener CICD, con todo lo que ello conlleva. Hago uso de tecnologías como Kubernetes, Terraform, Github Actions, Azure, AWS, Ansible, Docker... Un mundo entero de tecnologías.
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
+Además siempre me he considerado un informático autodidácta. Casi todo lo que he aprendido lo sé porque me he interesado y lo he buscado por internet. Es un poco el motivo por el que he creado esta web, para devolverle el favor que me ha hecho internet.
 
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
-
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
