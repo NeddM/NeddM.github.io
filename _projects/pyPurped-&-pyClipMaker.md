@@ -6,7 +6,7 @@ description: >
   Script de Python para ralentizar canciones, y crear un efecto _Chopped & Screwed_.
   Además he creado un canal de YouTube donde subir los discos que más me gustan. ¡Te invito a visitarla!
 
-date: 2 Jan 2023
+date: 10 Dec 2022
 image: 
   path: /assets/img/projects/pypurped-imagen.png
   srcset: 
