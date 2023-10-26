@@ -3,8 +3,9 @@ layout: project
 title: 'pyPurped & pyClipMaker'
 caption: No solo un script de Python, ¡también es un canal de YouTube!
 description: >
-  This is how I use Hydejack on my personal site. 
-  Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
+  Script de Python para ralentizar canciones, y crear un efecto _Chopped & Screwed_.
+  Además he creado un canal de YouTube donde subir los discos que más me gustan. ¡Te invito a visitarla!
+
 date: 2 Jan 2023
 image: 
   path: /assets/img/projects/pypurped-imagen.png
@@ -21,6 +22,9 @@ accent_image:
 theme_color: '#36007F'
 sitemap: false
 ---
+
+# pyPurped & pyClipMaker
+
 
 # Historia
 Para empezar a hablar sobre este proyecto considero importante que conozcamos un poco sobre el pasado de la música [Chopped and Screwed](https://es.wikipedia.org/wiki/Chopped_and_screwed). Fue un género creado por [Dj Screw](https://en.wikipedia.org/wiki/DJ_Screw) en Houston, Texas, en la década de los 90.
