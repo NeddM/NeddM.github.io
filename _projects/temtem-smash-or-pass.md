@@ -13,7 +13,6 @@ image:
     1920w: /assets/img/projects/temsmash.png
     960w:  /assets/img/projects/temsmash.png
     480w:  /assets/img/projects/temsmash.png
-links:
 accent_color: '#F8A028'
 accent_image:
   background: '#66B895'

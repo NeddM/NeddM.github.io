@@ -12,7 +12,6 @@ image:
     1920w: /assets/img/projects/regadio1.png
     960w:  /assets/img/projects/regadio1.png
     480w:  /assets/img/projects/regadio1.png
-links:
 accent_color: '#283FCE'
 accent_image:
   background: '#5D98F5'
