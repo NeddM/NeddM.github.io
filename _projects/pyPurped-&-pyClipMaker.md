@@ -23,11 +23,11 @@ sitemap: false
 ---
 
 # Historia
-Para empezar a hablar sobre este proyecto considero importante que conozcamos un poco sobre el pasado de la música (Chopped and Screwed)[https://es.wikipedia.org/wiki/Chopped_and_screwed]. Fue un género creado por (Dj Screw)[https://en.wikipedia.org/wiki/DJ_Screw] en Houston, Texas, en la década de los 90.
+Para empezar a hablar sobre este proyecto considero importante que conozcamos un poco sobre el pasado de la música [Chopped and Screwed](https://es.wikipedia.org/wiki/Chopped_and_screwed). Fue un género creado por [Dj Screw](https://en.wikipedia.org/wiki/DJ_Screw) en Houston, Texas, en la década de los 90.
 
 Es un género que se basa en ralentizar canciones y añadirle algo de reverb a la canción ralentizada. A veces también podemos encontrar algunos cortes creativos, pero eso ya depende del DJ. Es muy curioso porque con la canción ralentizada podemos escuchar de manera mucho más clara los instrumentos que se usan en las canciones, los samples, las voces de los cantantes, etc…
 
-!(Dj Screw en su estudio)[https://mixmag.net/assets/uploads/images/_facebook/DJ-Screw-1.jpg]
+![Dj Screw en su estudio](https://mixmag.net/assets/uploads/images/_facebook/DJ-Screw-1.jpg)
 
 Es un género muy extendido por todo el mundo, sobre todo por Estados Unidos, y también es un recurso que los artistas usan actualmente como un recurso musical, para por ejemplo terminar canciones.
 
@@ -43,7 +43,7 @@ pip install AudioSegment
 pip install youtube_dl
 ```
 
-Una vez tenemos las dependencias instaladas, hay que clonar el repositorio de (pyPurped)[https://github.com/NeddM/pyPurped]. La idea es añadir los enlaces de las canciones en el archivo _Enlaces.txt_, pero es importante que los enlaces se introduzcan sin espacios, y uno abajo del otro, como se muestra en el siguiente ejemplo.
+Una vez tenemos las dependencias instaladas, hay que clonar el repositorio de [pyPurped](https://github.com/NeddM/pyPurped). La idea es añadir los enlaces de las canciones en el archivo _Enlaces.txt_, pero es importante que los enlaces se introduzcan sin espacios, y uno abajo del otro, como se muestra en el siguiente ejemplo.
 
 ```
 https://youtu.be/ockzzfKbFOE
@@ -63,7 +63,7 @@ El primer problema es que no tenía una plataforma gratuita en la que pudiera di
 
 Una vez tuve decidido que quería subir las canciones a YouTube, empecé a montar yo mismo los videos del primer disco que tenía pensado subir, y eso me llevó varias horas, horas que realmente las considero perdidas.
 
-Pensé que sería buena idea crear un script que me montara los videos automáticamente, y ahí nace mi siguiente script (pyClipMaker)[https://github.com/NeddM/pyClipMaker].
+Pensé que sería buena idea crear un script que me montara los videos automáticamente, y ahí nace mi siguiente script [pyClipMaker](https://github.com/NeddM/pyClipMaker).
 
 Se trata de otro script en Python, que usa la dependencia de _moviepy_ para crearme clips de videos.
 
