@@ -11,37 +11,37 @@
 # Free version
 # ---------------------------------------------------------------------------------------
 home:                  Home
-pages:                 Pages
+pages:                 Páginas
 posts:                 Posts
-about:                 About
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
-jump_to:               Jump to
-navigation:            Navigation
+about:                 Sobre mi
+related_posts:         Post relacionados
+other_projects:        Otros proyectos
+comments:              Comentarios
+jump_to:               Ir a
+navigation:            Navegador
 social:                Social
 links:                 Links
 links_icon:            'icon-link'
-pagination:            Pagination
-newer:                 Newer
-older:                 Older
-forward:               Forward
-back:                  Back
+pagination:            Paginación
+newer:                 Más nuevos
+older:                 Más viejos
+forward:               Adelante
+back:                  Atrás
 permalink:             Permalink
 permalink_icon:        'content-hash'
-templates:             Templates (for web app)
-present:               present
-toc:                   Table of Contents
-note:                  Note
-description:           Description
-search:                Search
-search_placeholder:    Type something…
+templates:             Plantillas (for web app)
+present:               Presente
+toc:                   Tabla de contenidos
+note:                  Nota
+description:           Descripción
+search:                Buscar
+search_placeholder:    Escribe algo…
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading:               Cargando…
+redirecting:           Redireccionando…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Continua leyendo <!--post_title-->
 
 cookies_banner:
   text:                >
@@ -49,34 +49,34 @@ cookies_banner:
   okay:                Okay
 
 not_found:
-  title:               '404: Page Not Found'
+  title:               '404: Página no encontrada'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <!--home_link--> to try finding it again.
-  home_link:           Head back home
+    Lo siento, la URL a la que apuntábamos no existe.
+    <!--home_link--> para intentar encontrarlo de nuevo.
+  home_link:           De vuelta al Home
 
 offline:
-  title:               'You are Offline'
+  title:               'Estás Offline'
   message:             |
-    Sorry, but you appear to be offline and this page has not been prepared for offline viewing.
-    <!--home_link--> to try finding another page.
-  home_link:           Head back home
+    Lo siento, parece que no tienes conexión o la web no está lista para estar Online.
+    <!--home_link--> para intentar encontrar otra página.
+  home_link:           De vuelta al home
 
 error:
   title:               Error
   message:             |
-    Sorry, an error occurred while loading <!--link-->.
+    Lo siento, ha ocurrido un error mientras cargaba <!--link-->.
 
 # Separators
 # ---------------------------------------------------------------------------------------
-posted:                'Posted'
-last_modified_at:      'Last modified at'
+posted:                'Publicado'
+last_modified_at:      'Última modificación el'
 last_modified_at_icon: 'icon-history'
 colon:                 ':'
 separator:             '|'
-category_start:        'in '
+category_start:        'en '
 category_spearator:    ' / '
-tag_start:             'on '
+tag_start:             'en '
 tag_separator:         ', '
 from_to_separator:     '–'
 breadcrumbs_home:      'home'
@@ -102,8 +102,8 @@ date_formats:
 tinyletter:
   title:               Commercial break
   label:               Email
-  placeholder:         Enter your email address
-  button:              Subscribe
+  placeholder:         Introduce tu e-mail
+  button:              Suscribir
   message:             |
     Pay the *iron price* for this theme by adding yourself to the mailing list.
     Receive development updates, advanced tutorials,
@@ -115,36 +115,36 @@ tinyletter:
     {:.faded}
 
 welcome:
-  more_projects:       See <!--projects_title--> for more
-  more_posts:          See <!--posts_title--> for more
+  more_projects:       Mira <!--projects_title--> para más
+  more_posts:          Mira <!--posts_title--> para más
 
 resume:
-  location:            Location
+  location:            Localización
   location_separator:  ', '
   email:               Email
-  phone:               Phone
-  website:             Website
-  work:                Experience
-  work_title:          <!--position--> at <!--company-->
-  highlights:          Highlights
-  volunteer:           Volunteer
-  volunteer_title:     <!--position--> at <!--organization-->
-  education:           Education
-  education_title:     <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
-  courses:             Courses
-  awards:              Awards
-  awards_title:        <!--title--> from <!--awarder-->
-  publications:        Publications
-  publications_title:  <!--name--> by <!--publisher-->
-  references:          References
-  languages:           Languages
-  fluency:             Fluency
-  skills:              Skills
-  level:               Level
-  interests:           Interests
-  summary:             Summary
-  keywords:            Keywords
-  print:               Print
+  phone:               Teléfono
+  website:             Página web
+  work:                Experiencia
+  work_title:          <!--position--> en <!--company-->
+  highlights:          Destacado
+  volunteer:           Voluntariado
+  volunteer_title:     <!--position--> en <!--organization-->
+  education:           Estudios
+  education_title:     <!--study_type--> en <!--area--> de <!--institution--> con el GPA de <!--gpa-->
+  courses:             Cursos
+  awards:              Premios
+  awards_title:        <!--title--> de <!--awarder-->
+  publications:        Publicaciones
+  publications_title:  <!--name--> de <!--publisher-->
+  references:          Referencias
+  languages:           Idiomas
+  fluency:             Fluidez
+  skills:              Habilidades
+  level:               Nivel
+  interests:           Intereses
+  summary:             Resumen
+  keywords:            Palabras clave
+  print:               Imprimir
   download_pdf:        PDF
   download_vcf:        vCard
   download_json:       JSON
