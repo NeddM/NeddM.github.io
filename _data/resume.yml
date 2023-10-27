@@ -4,7 +4,7 @@
 basics:
   name: "Nedd Chairi Muñoz"
   label: "DevSecOps"
-  picture: "assets/img/nedd240x240.jpg"
+  picture: "/assets/img/nedd240x240.jpg"
   email: "neddchairiweb@gmail.com"
   # phone: ""
   # website: "https://piedpiper.com"
@@ -19,18 +19,18 @@ basics:
     He could tell you about it, but THAT would NOT be a “length-limited” conversation!
     Open `_data/resume.yml` to edit this text.
   location:
-    address: "2712 Broadway S"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+    # address: "2712 Broadway S"
+    # postalCode: "CA 94115"
+    city: "Huelva"
+    countryCode: "ES"
+    region: "Andalucía"
   profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
+    # - network: "Twitter"
+    #   username: "RHendricksCEO"
+    #   url: ""
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "Nedd Chairi Muñoz"
+      url: "https://www.linkedin.com/in/nedd-chairi-mu%C3%B1oz-111451172/"
 work:
   - company: "Pied Piper"
     position: "CEO/President"
