@@ -6,11 +6,12 @@ sitemap: false
 
 Bienvenido a mi sitio web.
 
-He creado esta web con el fin de compartir mis experiencias y conocimientos con todo el mundo al que le interese el mundo de la informática.
+Mi nombre es Nedd, y he creado esta plataforma con el propósito de compartir mis conocimientos y experiencias en el campo de la informática, específicamente enfocado en __DevSecOps__ y algunos lenguajes como __Rust__. Mi objetivo es proporcionar recursos y aprendizajes valiosos a todos aquellos interesados en este emocionante mundo.
 
-Mucha de la información relevante que encuentro en internet está en inglés, así que he decidido crear esta web en español, con el fin de llegar más a personas de habla hispana, y que el conocimiento se globalice en la medida de lo posible.
+Una de las motivaciones que me llevó a crear esta web es la constante búsqueda de información relevante en la internet, gran parte de la cual está disponible en inglés. Por lo tanto, he decidido desarrollar este espacio en español, con el fin de llegar a una audiencia más amplia de hablantes hispanohablantes y contribuir a la globalización del conocimiento.
 
-Actualmente me trabajo en Banco Santander como DevSecOps. Me encargo de crear y mantener CICD, con todo lo que ello conlleva. Hago uso de tecnologías como Kubernetes, Terraform, Github Actions, Azure, AWS, Ansible, Docker... Un mundo entero de tecnologías.
+En la actualidad, formo parte del equipo de __Banco Santander__ en el rol de DevSecOps, donde mi trabajo se centra en la creación y mantenimiento de sistemas de Integración Continua y Entrega Continua (CI/CD). Este papel me ha brindado la oportunidad de trabajar con un amplio espectro de tecnologías de vanguardia, incluyendo Kubernetes, Terraform, Github Actions, Azure, AWS, Ansible, Docker, y muchas otras. Mi compromiso con la excelencia técnica y la seguridad informática me impulsa a explorar constantemente soluciones innovadoras y mejores prácticas en DevSecOps.
 
-Además siempre me he considerado un informático autodidácta. Casi todo lo que he aprendido lo sé porque me he interesado y lo he buscado por internet. Es un poco el motivo por el que he creado esta web, para devolverle el favor que me ha hecho internet.
+Además, me considero un apasionado autodidacta en el ámbito informático. La mayor parte de mis conocimientos y habilidades los he adquirido gracias a mi curiosidad y perseverancia, explorando y experimentando con diferentes tecnologías. Esta inclinación hacia el aprendizaje autodidacta es precisamente uno de los motivos que me impulsó a crear esta web: como una forma de retribuir a la comunidad en línea que me ha enriquecido a lo largo de mi carrera.
 
+Te invito a explorar mi sitio web y aprovechar los recursos que he preparado para ti. Espero que encuentres contenido útil y relevante, y que mi experiencia contribuya a tu crecimiento y éxito en el mundo de DevSecOps. ¡Bienvenido a mi web!
