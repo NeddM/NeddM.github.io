@@ -13,7 +13,7 @@ hide_last_modified: true
 invert_sidebar: true
 ---
 
-# ¿XAMP para Linux? ¡Mejor Docker!
+![Header image](https://cdn.swish.ink/a9af59c2-0fdb-4a2a-9a9f-719eeb17b3b0/media/docker-wordpress.png)
 
 # Introducción
 Como ya sabéis, últimamente he estado muy interesado en la creación de temas y plugins para WordPress, pero durante este trayecto me he encontrado con una gran duda. _¿Cómo me hago un live-server de PHP?_.
