@@ -83,7 +83,7 @@ education:
 #     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
   - name: "DevSecOps"
-    level: "Master"
+    level: "5/5"
     keywords:
       - "Kubernetes"
       - "Helm"
@@ -95,13 +95,13 @@ skills:
       - "Azure"
       - "Mucho más..."
   - name: "Desarrollo de sistemas"
-    level: "Master"
+    level: "4/5"
     keywords:
       - "Rust"
       - "Go"
       - "Bash"
   - name: "Desarrollo web"
-    level: "Intermediate"
+    level: "3/5"
     keywords:
       - "JavaScript"
       - "React"
@@ -109,9 +109,9 @@ skills:
       - "HTML"
 languages:
   - language: "Español"
-    fluency: "Nativo"
+    fluency: "5/5"
   - language: "Inglés"
-    fluency: "Alto"
+    fluency: "4/5"
 # interests:
 #   - name: "Wildlife"
 #     keywords:
