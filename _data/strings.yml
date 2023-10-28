@@ -130,7 +130,7 @@ resume:
   volunteer:           Voluntariado
   volunteer_title:     <!--position--> en <!--organization-->
   education:           Estudios
-  education_title:     <!--study_type--> en <!--area--> de <!--institution--> con el GPA de <!--gpa-->
+  education_title:     <!--study_type--> de <!--area--> en <!--institution-->
   courses:             Cursos
   awards:              Premios
   awards_title:        <!--title--> de <!--awarder-->
