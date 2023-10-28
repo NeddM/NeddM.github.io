@@ -25,6 +25,9 @@ basics:
     - network: "LinkedIn"
       username: "Nedd Chairi Muñoz"
       url: "https://www.linkedin.com/in/nedd-chairi-mu%C3%B1oz-111451172/"
+    - network: "GitHub"
+      username: "NeddM"
+      url: "https://www.github.com/NeddM/"
 work:
   - company: "Banco Santander a través de Stemdo"
     position: "DevSecOps"
