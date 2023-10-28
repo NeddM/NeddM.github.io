@@ -39,8 +39,8 @@ work:
       En este trabajo me dedico a crear y mantener Integración Contínua y Despliegue Contínuo (CI/CD).
       Además me aseguro de que el código pasa una serie de tests.
     highlights:
-      - "He creado una automatización para realizar acciones SQL a través de Liquibase"
-      - "He podido mejorar mucho mi uso de Github Actions"
+      - "He trabajado con muchos workflows de Github Actions"
+      - "He dado soporte en varios clusters de Kubernetes"
 # volunteer:
 #   - organization: "CoderDojo"
 #     position: "Teacher"
@@ -94,19 +94,19 @@ skills:
       - "AWS"
       - "Azure"
       - "Mucho más..."
+  - name: "Desarrollo de sistemas"
+    level: "Master"
+    keywords:
+      - "Rust"
+      - "Go"
+      - "Bash"
   - name: "Desarrollo web"
-    level: "Medio"
+    level: "Intermediate"
     keywords:
       - "JavaScript"
       - "React"
       - "CSS"
       - "HTML"
-  - name: "Desarrollo de sistemas"
-    level: "Alto"
-    keywords:
-      - "Rust"
-      - "Go"
-      - "Bash"
 languages:
   - language: "Español"
     fluency: "Nativo"
