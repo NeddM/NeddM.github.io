@@ -22,7 +22,7 @@ theme_color: '#965CB1'
 sitemap: false
 ---
 
-# pyPurped & pyClipMaker
+# APIs que realizan webscraping
 
 Me fascina el mundo de las APIs, realmente me sorprende mucho que existan APIs tan completas, con tal cantidad de datos. Y lo que más me sorprende es que se reciben los datos de una manera muy rápida.
 
