@@ -1,7 +1,6 @@
 ---
 layout: project
 title: 'Commit2'
-caption: Algunas APIs que realizan webscraping con Go y demás lenguajes.
 caption: ¡Script en Rust para añadir emojis a tus commits de Git!
 description: >
   Script programado en Rust para añadir un emoji en nuestros commits de Git.
