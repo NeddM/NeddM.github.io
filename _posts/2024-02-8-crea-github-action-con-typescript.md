@@ -11,6 +11,8 @@ hide_last_modified: true
 invert_sidebar: true
 ---
 
+![Header image](https://cdn.hashnode.com/res/hashnode/image/upload/v1648546102552/z5hSWxNIx.jpg)
+
 Crear una **Action de Github con TypeScript** puede ser una tarea tediosa, ya que Github sólo soporta de manera nativa el código JavaScript.
 
 Si buscas por la [documentación de Github](https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action#template-repositories-for-creating-javascript-actions "https://docs.github.com/en/actions/creating-actions/creating-a-javascript-action#template-repositories-for-creating-javascript-actions") no vas a encontrar mucha información acerca de cómo crear una Action con TypeScript más allá de [ofrecerte una template](https://github.com/actions/typescript-action "https://github.com/actions/typescript-action").
