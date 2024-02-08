@@ -28,7 +28,7 @@ Me fascina el mundo de las APIs, realmente me sorprende mucho que existan APIs t
 
 Este funcionamiento supone un background bastante cerrado, por más que se busca información cuesta mucho encontrar una metodología que seguir de manera religiosa; unas buenas prácticas por decirlo de alguna manera. Pero la manera de crear estas APIs parecen prácticamente secreto de sumario.
 
-# ¿Cómo empezó todo esto?
+## ¿Cómo empezó todo esto?
 Hace ya dos años me interesé por el web scraping. Hice mucho uso de _Beautiful Soup_, que se trata de un paquete de Python que permite filtrar la información de una página web a partir de etiquetas HTML y sus atributos, como podrían ser sus clases CSS o su HREF.
 
 Cuando estudiaba el grado de telecomunicaciones un profesor siempre decía una frase muy usada, al menos aquí en España, que era: _cada maestrillo tiene su librillo_. Y qué razón tenía… En este mundo de las APIs a partir de web scraping hay que poner esa frase en práctica.
@@ -41,7 +41,7 @@ Todo esto y mucho más son cosas que tienes que ir probando por ti mismo, y enco
 
 He creado varias APIs de este tipo, algunos ejemplos son un scraper de precios de videojuegos en distintas páginas web, donde sufrí un parche de la empresa, que evita que se pueda seguir consiguiendo los datos de esa manera.
 
-# Algunos ejemplos
+## Algunos ejemplos
 La última API de este tipo que he creado fue con el lenguaje de programación Go. Ahora mismo está en producción y se encarga de buscar noticias sobre economía. Recolecta las últimas noticias y se las devuelve al cliente que está usando la API.
 
 
@@ -55,7 +55,7 @@ Yo decidí construir una imagen en Docker, y la hosteo en uno de mis servidores 
 
 Con el tiempo se encontrarán alternativas para que mejoren todo este proceso, ya sea que consuma menos gasto (porque mantener el VPS online conlleva un gasto), o mejorar la manera en la que se scrapea, por ejemplo haciendo uso de varios proxies.
 
-# Conclusión
+## Conclusión
 El mundo del backend y las APIs es muy amplio, mucha gente opina que sólo se tiene que saber gestionar los datos, ¿y eso les parece poco?. Pienso que esto de hacer web scraping va más allá de saber programar, hay que saber disimular, tener la picardía de como realizar algunos logins, etc...
 
 Yo seguiré creando este tipo de scripts, que aunque yo los estaba realizando en el lenguaje Go, tambien he probado con otro tipo de lenguajes más optimizados, como lo son Rust o JavaScript. Además este tipo de APIs permite generar pequeños ingresos pasivos, que nunca vienen mal, aunque sean para pagar los VPS.

@@ -24,7 +24,7 @@ Los pasos de añadir el método de pago y demás los voy a obviar, simplemente o
 
 [https://www.oracle.com/es/cloud/free/](https://www.oracle.com/es/cloud/free/)
 
-# Creamos nuestra instancia
+## Creamos nuestra instancia
 
 Vamos a comenzar a crear nuestra instancia, una vez hemos creado nuestra cuenta en Oracle Free Tier nos vamos a dirigir al buscador superior, y vamos a escribir _instance_.
 
@@ -62,7 +62,7 @@ Por último, configuramos la capacidad de disco de nuestra máquina. La máxima 
 
 Una vez hemos seguido todos estos pasos, ya podemos crear nuestra instancia.
 
-## Abrimos puertos en la web de Oracle Cloud Free Tier
+### Abrimos puertos en la web de Oracle Cloud Free Tier
 
 Una vez creada la instancia, tenemos que abrir los puertos de nuestra red para que Kubernetes pueda funcionar correctamente.
 
@@ -82,7 +82,7 @@ Y ahora sí, añadimos nuestras _Ingress Rules_, tienen que quedar tal que así.
 
 ![Abrimos los puertos](https://github.com/NeddM/ORI-ARM-Cluster/raw/main/Img/abrirPuertos4.png)
 
-## Abrimos puertos dentro del sistema operativo
+### Abrimos puertos dentro del sistema operativo
 
 Primero actualizamos el sistema
 
@@ -114,7 +114,7 @@ iptables -A INPUT -p tcp --dport 80 -j ACCEPT
 
 Podemos comprobar si se han abierto los puertos **[en esta web](https://www.yougetsignal.com/tools/open-ports/)**, aunque es posible que tarde en actualizarse. Yo recomiendo continuar con la instalación, y si luego hay problemas con los puertos entonces volver a este punto.
 
-## Instalamos Docker
+### Instalamos Docker
 
 Estos son los comandos para instalar Docker.
 
@@ -154,7 +154,7 @@ Por último, actualizamos el sistema de nuevo
 sudo apt update -y && sudo apt upgrade -y && sudo systemctl reboot -y
 ```
 
-## Instalamos k3s
+### Instalamos k3s
 
 ```bash
 curl -sfL https://get.k3s.io | sh -s

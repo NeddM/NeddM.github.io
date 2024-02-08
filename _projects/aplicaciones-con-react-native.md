@@ -29,7 +29,7 @@ sitemap: false
 
 # Aplicaciones con React Native
 
-# ¿Por qué React Native?
+## ¿Por qué React Native?
 
 Hace más de un año me encantaba el desarrollo web, y sigue siendo uno de mis campos favoritos. Comencé programando con Angular, aunque con el tiempo vi más conveniente programar con React, ya que podría hacer páginas web, aplicaciones para móvil e incluso aplicaciones de escritorio con ese mismo framework o un framework similar de Javascript (Porque ya sabemos que no es lo mismo ReactJS que React Native). En este punto ya me parecía asombroso el hecho de que pudiera realizar aplicaciones para mi teléfono móvil usando JavaScript.
 
@@ -37,7 +37,7 @@ Pues después de haber creado varias páginas webs con ReactJS decidí iniciarme
 
 Por lo tanto, el tiempo que estuve aprendiendo a usarlo creé varias aplicaciones para Android e iOS. Las aplicaciones no se encuentran en las tiendas porque son aplicaciones muy vistas, y suelen ser proyectos que se realizan como portfolio. 
 
-# Proyectos
+## Proyectos
 Son cuatro los proyectos que quiero destacar:
 
 El primer proyecto es una __aplicación para gestionar citas veterinarias__. Donde hago un buen uso del local storage, de manera que todos los datos se mantienen dentro de mi teléfono aunque cerremos la aplicación.

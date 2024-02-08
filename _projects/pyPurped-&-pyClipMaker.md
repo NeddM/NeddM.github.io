@@ -26,7 +26,7 @@ sitemap: false
 # pyPurped & pyClipMaker
 
 
-# Historia
+## Historia
 Para empezar a hablar sobre este proyecto considero importante que conozcamos un poco sobre el pasado de la música [Chopped and Screwed](https://es.wikipedia.org/wiki/Chopped_and_screwed). Fue un género creado por [Dj Screw](https://en.wikipedia.org/wiki/DJ_Screw) en Houston, Texas, en la década de los 90.
 
 Es un género que se basa en ralentizar canciones y añadirle algo de reverb a la canción ralentizada. A veces también podemos encontrar algunos cortes creativos, pero eso ya depende del DJ. Es muy curioso porque con la canción ralentizada podemos escuchar de manera mucho más clara los instrumentos que se usan en las canciones, los samples, las voces de los cantantes, etc…
@@ -39,7 +39,7 @@ Este género también es llamado de otras maneras, como _Slowed and reverb_ o _S
 
 Por ello he decidido bautizar este script con el nombre de __pyPurped__, por Python y por el género.
 
-# pyPurped
+## pyPurped
 El uso del script es muy sencillo. Está programado en Python, y vamos a necesitar algunas dependencias para que funcione correctamente.
 
 ```shell
@@ -60,7 +60,7 @@ Con sólo introducir el enlace, el script se encargará automáticamente de desc
 
 Podrás encontrar las canciones en la carpeta llamada _Procesado_.
 
-# pyClipMaker
+## pyClipMaker
 Yo que soy una persona de escucharme discos completos, empecé a crearme muchos de mis discos favoritos ralentizados, pero me enfrenté a algunos problemas.
 
 El primer problema es que no tenía una plataforma gratuita en la que pudiera disfrutar la música, igual que disfruto de la música normalmente. Pensé que Youtube sería una muy buena alternativa, ya que puedo subir los videos que yo quiera, y realmente no me importa que se detecte el copyright de las canciones y no llevarme nada de ingresos. De hecho lo prefiero, quiero que los beneficios vayan a los artistas, yo simplemente quiero disfrutar de la música ralentizada.
@@ -81,12 +81,12 @@ Luego tenemos que añadir una imagen, que será la imagen que ser verá de maner
 
 Ejecutamos el script, y todos los clips de video aparecerán en una carpeta llamada _procesado_. Posteriormente se borrarán las canciones para que no quede basura en nuestra carpeta del proyecto, y podamos seguir creando videos como si fuera una cadena de producción.
 
-# Canal de YouTube de pyPurped
+## Canal de YouTube de pyPurped
 Por último, ya sólo quedaba crear el canal de YouTube de __pyPurped__, donde he estado subiendo contenido cuando he tenido tiempo, y varias canciones han conseguido bastantes visitas y buenos comentarios. ¡Lo que significa que es trabajo está bien hecho!.
 
 En la descripción de todas las canciones aviso que no quiero ningún beneficio por el proyecto, simplemente es un proyecto para que podamos disfrutar de las canciones ralentizadas.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z7DOzecYPEk?si=3xdprtlf16jhrUq_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Despedida
+## Despedida
 Este ha sido mi primer artículo en mi web, espero que lo hayas disfrutado o que te haya servido. ¡Que tengas un buen día!
