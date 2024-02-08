@@ -15,7 +15,7 @@ invert_sidebar: true
 
 ![Header image](https://cdn.swish.ink/a9af59c2-0fdb-4a2a-9a9f-719eeb17b3b0/media/docker-wordpress.png)
 
-# Introducción
+## Introducción
 Como ya sabéis, últimamente he estado muy interesado en la creación de temas y plugins para WordPress, pero durante este trayecto me he encontrado con una gran duda. _¿Cómo me hago un live-server de PHP?_.
 
 
@@ -24,7 +24,7 @@ Yo nunca antes había programado con PHP, y por lo que leí por internet, era ne
 
 Así que después de buscar alternativas por internet, pensé que podría crearme mi propio servidor usando un archivo __docker compose__, y creo que ha sido la mejor opción. Primero porque así gano más experiencia con Docker, aunque sea algo realmente simple, pero nunca está de más encontrar soluciones a problemas del día a día, y crear la solución de manera “manual”. Siempre he sido partidario de crearme mis propias aplicaciones para problemas en los que quizás ya existían herramientas para ello.
 
-# Archivo docker-compose.yml
+## Archivo docker-compose.yml
 Por lo tanto, sin más, me puse al lío. El archivo de __docker compose__ es el siguiente:
 
 ```docker
@@ -77,7 +77,7 @@ docker compose up -d
 
 En el caso de que quieras ver los registros de las actividades que se realizan al momento, puedes quitar el `-d`, yo pienso que no son datos relevantes así que dejo los contenedores corriendo en modo _detatch_.
 
-# ¿Cómo puedo ver la web?
+## ¿Cómo puedo ver la web?
 Cuando nuestros contenedores estén en marcha vamos a dirigirnos a nuestro navegador web favorito, y vamos a entrar en la dirección de nuestro contenedor:
 
 ```
