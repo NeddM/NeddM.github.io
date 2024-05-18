@@ -25,11 +25,11 @@ sitemap: false
 
 ## ¿Qué es Github Workflow Finder?
 
-Github Workflow Finder es una **extensión para Google Chrome**, y por supuesto, una extensión para cualquier otro navegador **Chromium**.
+Github Workflow Finder es una **extensión para Google Chrome**, y por supuesto, una extensión para cualquier otro navegador **Chromium** como pueden ser _Microsoft Edge_, _Brave_, _Opera_...
 
-La premisa de desarrollar esta extensión fue por un problema muy repetitivo para las personas que trabajan con la tecnología **Github Actions**. A la hora de abrir un _Workflow Reusable_ o una _Custom Action_ teníamos que hacer una serie de acciones que rompían un poco con el flujo de trabajo que se estaba siguiedo.
+La premisa de desarrollar esta extensión fue por un problema muy repetitivo para las personas que trabajan con la tecnología **Github Actions**. A la hora de abrir un _Workflow Reusable_ o una _Custom Action_ teníamos que hacer una serie de acciones que rompían un poco con el flujo de trabajo que se estaba siguiendo.
 
-Muy comunmente si tienen que seguir trazas de _Workflows Reusables_ y de _Custom Actions_ para comprobar si estas están realizando las tareas que esperamos. Estas trazas solemos seguirlas en la misma página web de **Github**, y hasta ahora, no había manera de abrir fácilmente una referencia de las que se usan.
+Muy comunmente si tienen que seguir trazas de _Workflows Reusables_ y de _Custom Actions_ para comprobar si estas están realizando las tareas que esperamos. Estas trazas solemos seguirlas en la misma página web de **Github**, y hasta ahora, no había manera de abrir fácilmente una de estas referencias.
 
 ## Ejemplo de cómo se solían abrir estas referencias
 
@@ -50,7 +50,7 @@ Abrimos esta pestaña duplicada, y vamos a borrar todo el enlace, hasta que nos 
 
 ![Borramos todo el slug restante](/assets/img/projects/github-workflow-finder/workflow-finder-3.png)
 
-Una vez tenemos esto, vamos a pegar la referencia que hemos copiado. Vamos a borrarle la parte de la rama, y nos vamos a quedar sólo con el _propietario_ y el _repositorio_ `actions/checkout@v3`.
+Una vez tenemos esto, vamos a pegar la referencia que hemos copiado. Vamos a borrarle la parte de la rama, y nos vamos a quedar sólo con el _propietario_ y el _repositorio_ `actions/checkout`.
 
 ![Referencia sin la rama](/assets/img/projects/github-workflow-finder/workflow-finder-4.png)
 
