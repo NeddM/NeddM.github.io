@@ -4,6 +4,8 @@ title: Nedd Chairi Muñoz
 sitemap: false
 ---
 
+![Profile Photo](/assets/img/logo.png)
+
 Bienvenido a mi sitio web.
 
 Mi nombre es Nedd, y he creado esta plataforma con el propósito de compartir mis conocimientos y experiencias en el campo de la informática, específicamente enfocado en __DevSecOps__ y algunos lenguajes como __Rust__. Mi objetivo es proporcionar recursos y aprendizajes valiosos a todos aquellos interesados en este emocionante mundo.
