@@ -119,6 +119,9 @@ welcome:
   more_posts:          Mira <!--posts_title--> para más
 
 resume:
+  certificates:        Certificados
+  issuer:              Empresa emisora
+  url:                 URL
   location:            Localización
   location_separator:  ', '
   email:               Email
