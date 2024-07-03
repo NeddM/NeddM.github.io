@@ -8,9 +8,6 @@
     {% for certificate in resume.certificates %}
     <section>
       <header class="{% unless forloop.first %}mt2{% endunless %}">
-        <p class="faded">
-          {{ certificate.date }}
-        </p>
         <h3 class="h4 faded">
           <span class="bc">{{ certificate.name }}</span>
           {% if certificate.issuer %}
@@ -18,6 +15,9 @@
             <span class="bc">{{ certificate.issuer }}</span>
           {% endif %}
         </h3>
+        <p class="faded">
+          {{ certificate.date }}
+        </p>
       </header>
 
       {% if certificate.url %}
