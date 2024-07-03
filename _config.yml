@@ -56,8 +56,8 @@ menu:
     url:               /blog/
   - title:             Portfolio
     url:               /projects/
-  - title:             Currículum
-    url:               /resume/
+  - title:             Currículum ES
+    url:               /cv-es/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -72,7 +72,7 @@ legal:
     url:               /POLICY/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2023. Todos los derechos reservados.
+copyright:             © 2024. Todos los derechos reservados.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
