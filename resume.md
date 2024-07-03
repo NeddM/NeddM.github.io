@@ -7,6 +7,7 @@ hide_description: true
 left_column:
   - work
   - volunteer
+  - certificates
   - education
   - awards
   - publications
