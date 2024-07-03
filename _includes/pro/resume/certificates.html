@@ -21,9 +21,7 @@
       </header>
 
       {% if certificate.url %}
-      <p class="note">
         <a href="{{ certificate.url }}" target="_blank">{{ strings.resume.view_certificate | default:"View Certificate" }}</a>
-      </p>
       {% endif %}
     </section>
     {% if forloop.first %}</div>{% endif %}
