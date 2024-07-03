@@ -94,11 +94,11 @@ certificates:
     url: "https://www.credly.com/badges/ab87e1ad-4c67-45e9-a375-8337c08a264a/public_url"
 
 education:
-  - institution: "Instituto Prof. José Luis Graiño"
-    area: "Técnico en Instalaciones de Telecomunicaciones"
-    studyType: "Grado Medio"
-    startDate: "2015-10-15"
-    endDate: "2017-06-20"
+  - institution: "IES La Marisma"
+    area: "Administrador de Sistemas Informáticos en Red"
+    studyType: "Grado Superior"
+    startDate: "2021-09-07"
+    endDate: "2023-06-20"
 
   - institution: "IES Pablo Neruda"
     area: "Técnico en Iluminación, Captación y Tratamiento de Imagen"
@@ -106,11 +106,11 @@ education:
     startDate: "2017-09-11"
     endDate: "2019-06-20"
 
-  - institution: "IES La Marisma"
-    area: "Administrador de Sistemas Informáticos en Red"
-    studyType: "Grado Superior"
-    startDate: "2021-09-07"
-    endDate: "2023-06-20"
+  - institution: "Instituto Prof. José Luis Graiño"
+    area: "Técnico en Instalaciones de Telecomunicaciones"
+    studyType: "Grado Medio"
+    startDate: "2015-10-15"
+    endDate: "2017-06-20"
 
     # gpa: "4.0"
     # courses:
