@@ -9,7 +9,7 @@ basics:
   phone: "697922471"
   # website: "https://piedpiper.com"
   summary: >
-    ¡Hola!, mi nombre es Nedd y soy DevSecOps. En mi tiempo libre me encanta programar con lenguajes como Rust o Golang, me considero un chico creativo al que le gusta encontrar soluciones a problemas. Soy también una persona comprometida con el software libre y me gusta estar informado de las últimas tecnologías.
+    ¡Hola!, mi nombre es _Nedd_ y soy _DevSecOps_. En mi tiempo libre me encanta programar con lenguajes como Rust o Golang, me considero un chico creativo al que le gusta encontrar soluciones a problemas. Soy también una persona comprometida con el software libre y me gusta estar informado de las últimas tecnologías.
   location:
     # address: "2712 Broadway S"
     # postalCode: "CA 94115"
@@ -33,16 +33,16 @@ work:
     startDate: "2023-03-03"
     endDate: ""
     summary: >
-        Estuve trabajando para proyectos internos y para __Banco Santander (Santander GlobalTech)__. Me he encargado de crear infraestructura, de mantener el ciclo de vida de aplicaciones (_CI/CD_), de desarrollar soluciones innovadoras, entre otras muchas cosas.
+        Estuve trabajando para proyectos internos y para _Banco Santander (Santander GlobalTech)_. Me he encargado de crear infraestructura, de mantener el ciclo de vida de aplicaciones (CI/CD), de desarrollar soluciones innovadoras, entre otras muchas cosas.
     highlights:
-      - "Mucho uso de __Github Actions__, tanto que a día de hoy lo uso para funcionalidades personales."
-      - "Uso frecuente de __Kubernetes__ y __Helm__, para desplegar aplicaciones y asegurarme de que están funcionando bien."
-      - "__Scripting y programación__ en distintos lenguajes, como son _Bash_, _JavaScript_, _TypeScript_, _Python_, _Powershell_..."
-      - "__Creación de imágenes__ para contenedores _Docker_."
-      - "__Crear infraestructura como código__ usando _Terraform_ con providers como _Azure_ o _AWS_."
-      - "Expertise usando __Git__, con distintas estrategias de ramificación como _TBD_ o _Git-Flow_."
-      - "Uso de __tableros SCRUM__ como _Jira_ o _Github Projects_ para organizar tareas."
-      - "__Supervisión de equipos__ en distintos proyectos, liderando a mis compañeros en tareas."
+      - Mucho uso de Github Actions, tanto que a día de hoy lo uso para funcionalidades personales.
+      - Uso frecuente de Kubernetes y Helm, para desplegar aplicaciones y asegurarme de que están funcionando bien.
+      - Scripting y programación en distintos lenguajes, como son Bash, JavaScript, TypeScript, Python, Powershell...
+      - Creación de imágenes para contenedores Docker.
+      - Crear infraestructura como código usando Terraform con providers como Azure o AWS.
+      - Expertise usando Git, con distintas estrategias de ramificación como TBD o Git-Flow.
+      - Uso de tableros SCRUM como Jira o Github Projects para organizar tareas.
+      - Supervisión de equipos en distintos proyectos, liderando a mis compañeros en tareas.
 
   - company: "Nonsible"
     position: "Desarrollador"
@@ -50,10 +50,10 @@ work:
     startDate: "2023-09-19"
     endDate: ""
     summary: >
-        Proyecto open source creado con Rust para realizar ejecuciones y tareas a través de SSH. Pretende ser una alternativa más ligera de Ansible.
+        Proyecto open source creado con _Rust_ para realizar ejecuciones y tareas a través de SSH. Pretende ser una alternativa más ligera de _Ansible_.
     highlights:
-      - Uso de lenguajes de __programación de bajo nivel__.
-      - Programación en __Rust__.
+      - Uso de lenguajes de programación de bajo nivel.
+      - Programación en Rust.
 
   - company: "Github Workflow Finder"
     position: "Desarrollador web"
@@ -61,10 +61,10 @@ work:
     startDate: "2024-05-11"
     endDate: ""
     summary: >
-        Solución a un problema lógico en la plataforma de _Github Actions_. Cuando tenemos que analizar workflows desde la web no tenemos una manera sencilla de dirigirnos a una referencia de otro workflow o action. Gracias a esta __extensión de Google Chrome__ podemos navegar de manera más fluida.
+        Solución a un problema lógico en la plataforma de _Github Actions_. Cuando tenemos que analizar workflows desde la web no tenemos una manera sencilla de dirigirnos a una referencia de otro workflow o action. Gracias a esta _extensión de Google Chrome_ podemos navegar de manera más fluida.
     highlights:
-      - Aplico una __solución lógica a un problema__.
-      - Programación en el __stack web__, _JavaScript_, _CSS_ y _HTML_.
+      - Aplico una solución lógica a un problema.
+      - Programación en el stack web, JavaScript, CSS y HTML.
 
   - company: "Canal de YouTube"
     position: "Creador de contenido"
@@ -74,8 +74,8 @@ work:
     summary: >
         Creo contenido para las redes, donde muestro mi manera de aprender, informo sobre nuevas tecnologías y herramientas interesantes.
     highlights:
-      - Demostración de que __programar me apasiona__.
-      - Me mantengo __actualizado con las últimas tecnologías__.
+      - Demostración de que programar me apasiona.
+      - Me mantengo actualizado con las últimas tecnologías.
 
 certificates:
   - name: "Github Actions"

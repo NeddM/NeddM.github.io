@@ -3,7 +3,7 @@
   <div class="npb">
     <h2 id="certificates" class="h3 hr-bottom">
       {{ strings.resume.certificates | default:"Certificates" }}
-      <span class="symbol {{ icons.certificates | default:'icon-briefcase' }}"></span>
+      <span class="symbol {{ icons.certificates | default:'icon-portfolio' }}"></span>
     </h2>
     {% for certificate in resume.certificates %}
     <section>
@@ -11,7 +11,7 @@
         <h3 class="h4 faded">
           <span class="bc">{{ certificate.name }}</span>
           {% if certificate.issuer %}
-            {{ " by " }}
+            {{ " por " }}
             <span class="bc">{{ certificate.issuer }}</span>
           {% endif %}
         </h3>
