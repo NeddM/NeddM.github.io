@@ -6,7 +6,7 @@ basics:
   label: "DevOps and developer"
   picture: "/assets/img/nedd240x240.jpg"
   email: "neddchairiweb@gmail.com"
-  phone: "697922471"
+  phone: "+34 697 92 24 71"
   # website: "https://piedpiper.com"
   summary: >
     Hi, my name is _Nedd_ and I'm _DevSecOps_. In my free time I love programming with languages like Rust or Golang, I consider myself a creative guy who likes to find solutions to problems. I'm also a person committed to free software and I like to be informed about the latest technologies.
@@ -31,7 +31,7 @@ work:
     position: "DevSecOps"
     website: "https://stemdo.io"
     startDate: "2023-03-03"
-    endDate: ""
+    endDate: "Currently"
     summary: >
         Working for internal projects and for _Banco Santander (Santander GlobalTech)_. I have been in charge of creating infrastructure, maintaining the application lifecycle (CI/CD), developing innovative solutions, among many other things.
     highlights:
@@ -48,7 +48,7 @@ work:
     position: "Developer"
     # website: "https://piedpiper.com"
     startDate: "2023-09-19"
-    endDate: ""
+    endDate: "Currently"
     summary: >
         Open source project created with _Rust_ to perform executions and tasks via SSH. It is intended to be a lighter alternative to _Ansible_.
     highlights:
@@ -59,7 +59,7 @@ work:
     position: "Web developer"
     # website: "https://piedpiper.com"
     startDate: "2024-05-11"
-    endDate: ""
+    endDate: "Currently"
     summary: >
         Solution to a logical problem in the _Github Actions_ platform. When we have to analyze workflows from the web we don't have an easy way to go to a reference of another workflow or action. Thanks to this _extension for Google Chrome_ we can navigate in a more fluid way.
     highlights:
@@ -70,7 +70,7 @@ work:
     position: "Content creator"
     # website: "https://piedpiper.com"
     startDate: "2024-06-05"
-    endDate: ""
+    endDate: "Currently"
     summary: >
         I create content for the networks, where I show my way of learning, inform about new technologies and interesting tools.
     highlights:
