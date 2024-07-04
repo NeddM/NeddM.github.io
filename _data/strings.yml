@@ -31,6 +31,7 @@ permalink:             Permalink
 permalink_icon:        'content-hash'
 templates:             Plantillas (for web app)
 present:               Presente
+present-en:            Currently
 toc:                   Tabla de contenidos
 note:                  Nota
 description:           Descripción
