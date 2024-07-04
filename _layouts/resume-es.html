@@ -16,7 +16,7 @@ layout: base
 {% assign nsd = site.hydejack.no_structured_data | default:site.no_structured_data %}
 {% assign resume = site.data.resume-es %}
 {% assign basics = resume.basics %}
-{% assign no_third_column = true %}
+{% assign no_third_column = page.no_third_column | default:site.hydejack.no_third_column | default:false %}
 
 <article
   id="resume"
