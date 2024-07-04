@@ -19,10 +19,10 @@ layout: base
 {% assign no_third_column = page.no_third_column | default:site.hydejack.no_third_column | default:false %}
 
 <article
-  id="resume"
+  id="resume-es"
   class="page {% unless nsd %}vcard h-card{% endunless %}"
   role="article"
-  {% unless nsd %}vocab="http://schema.org/" typeof="Person" resource="#resume"{% endunless %}
+  {% unless nsd %}vocab="http://schema.org/" typeof="Person" resource="#resume-es"{% endunless %}
   >
   {% include pro/resume-es/header.html %}
   {% include pro/resume-es/buttons.html %}

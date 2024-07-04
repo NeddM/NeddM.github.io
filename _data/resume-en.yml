@@ -35,7 +35,6 @@ work:
     summary: >
         Working for internal projects and for _Banco Santander (Santander GlobalTech)_. I have been in charge of creating infrastructure, maintaining the application lifecycle (CI/CD), developing innovative solutions, among many other things.
     highlights:
-
       - A lot of use of Github Actions, so much so that today I use it for personal functionality.
       - Frequent use of Kubernetes and Helm, to deploy applications and make sure they are working well.
       - Scripting and programming in different languages, such as Bash, JavaScript, TypeScript, Python, Powershell...
@@ -137,7 +136,6 @@ skills:
     level: "Master" 
   - name: "Critical thinking"
     level: "Master" 
-
 
 languages:
   - language: "Spanish"
