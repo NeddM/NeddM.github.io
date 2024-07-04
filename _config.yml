@@ -58,6 +58,8 @@ menu:
     url:               /projects/
   - title:             Currículum ES
     url:               /cv-es/
+  - title:             Currículum EN
+    url:               /cv-en/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

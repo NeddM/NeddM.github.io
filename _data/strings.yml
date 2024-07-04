@@ -169,3 +169,30 @@ resume:
     languages:         icon-bubbles
     skills:            icon-wrench
     interests:         icon-heart
+
+  certificates-en:     Certificates
+  issuer-en:              Issuer
+  location-en:         Location
+  phone-en:            Phone
+  website-en:          Website
+  work-en:             Experience
+  work_title-en:       <!--position--> at <!--company-->
+  highlights-en:       Highlights
+  volunteer-en:        Volunteer
+  volunteer_title-en:  <!--position--> at <!--organization-->
+  education-en:        Education
+  education_title-en:  <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
+  courses-en:          Courses
+  awards-en:           Awards
+  awards_title-en:     <!--title--> from <!--awarder-->
+  publications-en:     Publications
+  publications_title-en: <!--name--> by <!--publisher-->
+  references-en:       References
+  languages-en:        Languages
+  fluency-en:          Fluency
+  skills-en:           Skills
+  level-en:            Level
+  interests-en:        Interests
+  summary-en:          Summary
+  keywords-en:         Keywords
+  print-en:            Print

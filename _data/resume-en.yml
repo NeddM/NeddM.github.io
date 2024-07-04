@@ -3,18 +3,18 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Nedd Chairi Muñoz"
-  label: "DevOps y programador"
+  label: "DevOps and developer"
   picture: "/assets/img/nedd240x240.jpg"
   email: "neddchairiweb@gmail.com"
   phone: "+34 697 92 24 71"
   # website: "https://piedpiper.com"
   summary: >
-    ¡Hola!, mi nombre es _Nedd_ y soy _DevSecOps_. En mi tiempo libre me encanta programar con lenguajes como Rust o Golang, me considero un chico creativo al que le gusta encontrar soluciones a problemas. Soy también una persona comprometida con el software libre y me gusta estar informado de las últimas tecnologías.
+    Hi, my name is _Nedd_ and I'm _DevSecOps_. In my free time I love programming with languages like Rust or Golang, I consider myself a creative guy who likes to find solutions to problems. I'm also a person committed to free software and I like to be informed about the latest technologies.
   location:
     # address: "2712 Broadway S"
     # postalCode: "CA 94115"
     city: "Huelva"
-    countryCode: "ES-es"
+    countryCode: "ES"
     region: "Andalucía"
   profiles:
     # - network: "Twitter"
@@ -27,55 +27,56 @@ basics:
       username: "NeddM"
       url: "https://www.github.com/NeddM/"
 work:
-  - company: "Banco Santander a través de Stemdo"
+  - company: "Banco Santander through Stemdo"
     position: "DevSecOps"
     website: "https://stemdo.io"
     startDate: "2023-03-03"
     endDate: ""
     summary: >
-        Estuve trabajando para proyectos internos y para _Banco Santander (Santander GlobalTech)_. Me he encargado de crear infraestructura, de mantener el ciclo de vida de aplicaciones (CI/CD), de desarrollar soluciones innovadoras, entre otras muchas cosas.
+        Working for internal projects and for _Banco Santander (Santander GlobalTech)_. I have been in charge of creating infrastructure, maintaining the application lifecycle (CI/CD), developing innovative solutions, among many other things.
     highlights:
-      - Mucho uso de Github Actions, tanto que a día de hoy lo uso para funcionalidades personales.
-      - Uso frecuente de Kubernetes y Helm, para desplegar aplicaciones y asegurarme de que están funcionando bien.
-      - Scripting y programación en distintos lenguajes, como son Bash, JavaScript, TypeScript, Python, Powershell...
-      - Creación de imágenes para contenedores Docker.
-      - Crear infraestructura como código usando Terraform con providers como Azure o AWS.
-      - Expertise usando Git, con distintas estrategias de ramificación como TBD o Git-Flow.
-      - Uso de tableros SCRUM como Jira o Github Projects para organizar tareas.
-      - Supervisión de equipos en distintos proyectos, liderando a mis compañeros en tareas.
+
+      - A lot of use of Github Actions, so much so that today I use it for personal functionality.
+      - Frequent use of Kubernetes and Helm, to deploy applications and make sure they are working well.
+      - Scripting and programming in different languages, such as Bash, JavaScript, TypeScript, Python, Powershell...
+      - Creating images for Docker containers.
+      - Creating infrastructure as code using Terraform with providers such as Azure or AWS.
+      - Expertise using Git, with different branching strategies like TBD or Git-Flow.
+      - Use of SCRUM dashboards like Jira or Github Projects to organize tasks.
+      - Supervision of teams in different projects, leading my colleagues in tasks.
 
   - company: "Nonsible"
-    position: "Desarrollador"
+    position: "Developer"
     # website: "https://piedpiper.com"
     startDate: "2023-09-19"
     endDate: ""
     summary: >
-        Proyecto open source creado con _Rust_ para realizar ejecuciones y tareas a través de SSH. Pretende ser una alternativa más ligera de _Ansible_.
+        Open source project created with _Rust_ to perform executions and tasks via SSH. It is intended to be a lighter alternative to _Ansible_.
     highlights:
-      - Uso de lenguajes de programación de bajo nivel.
-      - Programación en Rust.
+      - Use of low level programming languages.
+      - Rust programming.
 
   - company: "Github Workflow Finder"
-    position: "Desarrollador web"
+    position: "Web developer"
     # website: "https://piedpiper.com"
     startDate: "2024-05-11"
     endDate: ""
     summary: >
-        Solución a un problema lógico en la plataforma de _Github Actions_. Cuando tenemos que analizar workflows desde la web no tenemos una manera sencilla de dirigirnos a una referencia de otro workflow o action. Gracias a esta _extensión de Google Chrome_ podemos navegar de manera más fluida.
+        Solution to a logical problem in the _Github Actions_ platform. When we have to analyze workflows from the web we don't have an easy way to go to a reference of another workflow or action. Thanks to this _extension for Google Chrome_ we can navigate in a more fluid way.
     highlights:
-      - Aplico una solución lógica a un problema.
-      - Programación en el stack web, JavaScript, CSS y HTML.
+      - I apply a logical solution to a problem.
+      - Programming in the web stack, JavaScript, CSS and HTML.
 
-  - company: "Canal de YouTube"
-    position: "Creador de contenido"
+  - company: "YouTube channel"
+    position: "Content creator"
     # website: "https://piedpiper.com"
     startDate: "2024-06-05"
     endDate: ""
     summary: >
-        Creo contenido para las redes, donde muestro mi manera de aprender, informo sobre nuevas tecnologías y herramientas interesantes.
+        I create content for the networks, where I show my way of learning, inform about new technologies and interesting tools.
     highlights:
-      - Demostración de que programar me apasiona.
-      - Me mantengo actualizado con las últimas tecnologías.
+      - Demonstration that I am passionate about programming.
+      - I keep myself updated with the latest technologies.
 
 certificates:
   - name: "Github Actions"
@@ -95,20 +96,20 @@ certificates:
 
 education:
   - institution: "IES La Marisma"
-    area: "Administrador de Sistemas Informáticos en Red"
-    studyType: "Grado Superior"
+    area: "Networked Computer Systems Administrator"
+    studyType: "Higher Studies"
     startDate: "2021-09-07"
     endDate: "2023-06-20"
 
   - institution: "IES Pablo Neruda"
-    area: "Técnico en Iluminación, Captación y Tratamiento de Imagen"
-    studyType: "Grado Superior"
+    area: "Lighting, Image Capture and Treatment Technician"
+    studyType: "Higher Studies"
     startDate: "2017-09-11"
     endDate: "2019-06-20"
 
   - institution: "Instituto Prof. José Luis Graiño"
-    area: "Técnico en Instalaciones de Telecomunicaciones"
-    studyType: "Grado Medio"
+    area: "Technician in Telecommunications Installations"
+    studyType: "Medium Studies"
     startDate: "2015-10-15"
     endDate: "2017-06-20"
 
@@ -128,19 +129,20 @@ education:
 #     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
 #     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
-  - name: "Creatividad"
+  - name: "Creativity"
     level: "Master"
-  - name: "Capacidad de aprendizaje"
+  - name: "Learning ability"
     level: "Master"
-  - name: "Liderazgo"
-    level: "Master"
-  - name: "Pensamiento crítico"
-    level: "Master"
+  - name: "Leadership"
+    level: "Master" 
+  - name: "Critical thinking"
+    level: "Master" 
+
 
 languages:
-  - language: "Español"
+  - language: "Spanish"
     fluency: "5/5"
-  - language: "Inglés"
+  - language: "English"
     fluency: "4/5"
 # interests:
 #   - name: "Wildlife"
