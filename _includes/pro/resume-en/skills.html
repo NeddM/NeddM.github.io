@@ -1,7 +1,7 @@
 {% if resume.skills.size > 0 %}
 <section class="npb">
   <h2 id="skills" class="h3 hr-bottom">
-    {{ strings.resume.skills | default:"Skills" }}
+    {{ strings.resume.skills-en | default:"Skills" }}
     <span class="symbol {{ icons.skills | default:'icon-wrench' }}"></span>
   </h2>
   <dl class="skills">
@@ -10,7 +10,7 @@
       <dd class="faded clearafter">
         {% if skl.level and skl.level != '' %}
         <div class="fr">
-          <span class="sr-only">{{ strings.resume.level | default:"Level" }}{{ colon }}</span>
+          <span class="sr-only">{{ strings.resume.level-en | default:"Level" }}{{ colon }}</span>
           {% assign level = skl.level | slugify %}
           {% unless page.no_skill_icons %}
             {% case level %}
@@ -44,7 +44,7 @@
         {% endif %}
         {% if skl.keywords.size > 0 %}
         <div>
-          <span class="sr-only">{{ strings.resume.keywords | default:"Keywords" }}{{ colon }}</span>
+          <span class="sr-only">{{ strings.resume.keywords-en | default:"Keywords" }}{{ colon }}</span>
           <ul class="tags">
             {% for key in skl.keywords %}
               <li class="tag">{{ key }}</li>

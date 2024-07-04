@@ -2,7 +2,7 @@
 <section>
   <div class="npb">
   <h2 id="volunteer" class="h3 hr-bottom">
-    {{ strings.resume.volunteer | default:"Volunteer" }}
+    {{ strings.resume.volunteer-en | default:"Volunteer" }}
     <span class="symbol {{ icons.volunteer | default:'icon-earth' }}"></span>
   </h2>
   {% for vol in resume.volunteer %}
@@ -16,7 +16,7 @@
       <h3 class="h4 faded">
         {% capture position %}<span class="bc">{{ vol.position }}</span>{% endcapture %}
         {% capture organization %}{% include components/link.html title=vol.organization href=vol.website span_class="bc" %}{% endcapture %}
-        {{ strings.resume.volunteer_title
+        {{ strings.resume.volunteer_title-en
           | default:"<!--position--> at <!--organization-->"
           | replace:"<!--position-->", position
           | replace:"<!--organization-->", organization
@@ -26,7 +26,7 @@
 
     {% include components/message.html class="note" text=vol.summary alt="" %}
 
-    <h4 class="sr-only">{{ strings.resume.highlights | default:"Highlights" }}</h4>
+    <h4 class="sr-only">{{ strings.resume.highlights-en | default:"Highlights" }}</h4>
     <ul>
       {% for highlight in vol.highlights %}
         <li>{{ highlight }}</li>

@@ -2,7 +2,7 @@
 <section>
   <div class="npb">
   <h2 id="publications" class="h3 hr-bottom">
-    {{ strings.resume.publications | default:"Publications" }}
+    {{ strings.resume.publications-en | default:"Publications" }}
     <span class="symbol {{ icons.publications | default:'icon-book' }}"></span>
   </h2>
   {% for pub in resume.publications %}
@@ -16,7 +16,7 @@
       <h3 class="h4 faded">
         {% capture name %}{% include components/link.html title=pub.name href=pub.website span_class="bc" %}{% endcapture %}
         {% capture publisher %}<span class="bc">{{ pub.publisher }}</span>{% endcapture %}
-        {{ strings.resume.publications_title
+        {{ strings.resume.publications_title-en
           | default:"<!--name--> by <!--publisher-->"
           | replace:"<!--name-->", name
           | replace:"<!--publisher-->", publisher
