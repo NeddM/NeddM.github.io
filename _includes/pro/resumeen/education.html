@@ -2,7 +2,7 @@
 <section>
   <div class="npb">
   <h2 id="education" class="h3 hr-bottom">
-    {{ strings.resume.education-es | default:"Education" }}
+    {{ strings.resume.education-en | default:"Education" }}
     <span class="symbol {{ icons.education | default:'icon-library' }}"></span>
   </h2>
   {% for edu in resume.education %}
@@ -18,7 +18,7 @@
         {% capture area %}<span class="bc">{{ edu.area }}</span>{% endcapture %}
         {% capture institution %}<span class="bc" {% if edu.endDate.size > 0 %}property="name"{% endif %}>{{ edu.institution }}</span>{% endcapture %}
         {% capture gpa %}<span class="bc">{{ edu.gpa }}</span>{% endcapture %}
-        {{ strings.resume.education_title-es
+        {{ strings.resume.education_title-en
           | default:"<!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->"
           | replace:"<!--study_type-->", study_type
           | replace:"<!--area-->", area
