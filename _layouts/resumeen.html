@@ -14,22 +14,22 @@ layout: base
 {% assign from_to_format = strings.date_formats.resume | default:"%b %Y" %}
 
 {% assign nsd = site.hydejack.no_structured_data | default:site.no_structured_data %}
-{% assign resume = site.data.resume-en %}
+{% assign resume = site.data.resumeen %}
 {% assign basics = resume.basics %}
 {% assign no_third_column = page.no_third_column | default:site.hydejack.no_third_column | default:false %}
 
 <article
-  id="resume-en"
+  id="resumeen"
   class="page {% unless nsd %}vcard h-card{% endunless %}"
   role="article"
-  {% unless nsd %}vocab="http://schema.org/" typeof="Person" resource="#resume-en"{% endunless %}
+  {% unless nsd %}vocab="http://schema.org/" typeof="Person" resource="#resumeen"{% endunless %}
   >
-  {% include pro/resume-en/header.html %}
-  {% include pro/resume-en/buttons.html %}
+  {% include pro/resumeen/header.html %}
+  {% include pro/resumeen/buttons.html %}
 
   <div class="columns contact {% unless no_third_column %}columns-break{% endunless %}">
-    {% include pro/resume-en/basics.html %}
-    {% include pro/resume-en/profiles.html %}
+    {% include pro/resumeen/basics.html %}
+    {% include pro/resumeen/profiles.html %}
   </div>
 
   <div class="columns {% unless no_third_column %}columns-break{% endunless %}">
@@ -42,25 +42,25 @@ layout: base
       {% for sec in l_col %}
         {% case sec %}
         {% when 'work' %}
-          {% include pro/resume-en/work.html %}
+          {% include pro/resumeen/work.html %}
         {% when 'certificates' %}
-          {% include pro/resume-en/certificates.html %}
+          {% include pro/resumeen/certificates.html %}
         {% when 'volunteer' %}
-          {% include pro/resume-en/volunteer.html %}
+          {% include pro/resumeen/volunteer.html %}
         {% when 'education' %}
-          {% include pro/resume-en/education.html %}
+          {% include pro/resumeen/education.html %}
         {% when 'awards' %}
-          {% include pro/resume-en/awards.html %}
+          {% include pro/resumeen/awards.html %}
         {% when 'publications' %}
-          {% include pro/resume-en/publications.html %}
+          {% include pro/resumeen/publications.html %}
         {% when 'references' %}
-          {% include pro/resume-en/references.html %}
+          {% include pro/resumeen/references.html %}
         {% when 'languages' %}
-          {% include pro/resume-en/languages.html %}
+          {% include pro/resumeen/languages.html %}
         {% when 'skills' %}
-          {% include pro/resume-en/skills.html %}
+          {% include pro/resumeen/skills.html %}
         {% when 'interests' %}
-          {% include pro/resume-en/interests.html %}
+          {% include pro/resumeen/interests.html %}
         {% else %}
         {% endcase %}
       {% endfor %}
@@ -69,25 +69,25 @@ layout: base
       {% for sec in r_col %}
         {% case sec %}
         {% when 'work' %}
-          {% include pro/resume-en/work.html %}
+          {% include pro/resumeen/work.html %}
         {% when 'certificates' %}
-          {% include pro/resume-en/certificates.html %}
+          {% include pro/resumeen/certificates.html %}
         {% when 'volunteer' %}
-          {% include pro/resume-en/volunteer.html %}
+          {% include pro/resumeen/volunteer.html %}
         {% when 'education' %}
-          {% include pro/resume-en/education.html %}
+          {% include pro/resumeen/education.html %}
         {% when 'awards' %}
-          {% include pro/resume-en/awards.html %}
+          {% include pro/resumeen/awards.html %}
         {% when 'publications' %}
-          {% include pro/resume-en/publications.html %}
+          {% include pro/resumeen/publications.html %}
         {% when 'references' %}
-          {% include pro/resume-en/references.html %}
+          {% include pro/resumeen/references.html %}
         {% when 'languages' %}
-          {% include pro/resume-en/languages.html %}
+          {% include pro/resumeen/languages.html %}
         {% when 'skills' %}
-          {% include pro/resume-en/skills.html %}
+          {% include pro/resumeen/skills.html %}
         {% when 'interests' %}
-          {% include pro/resume-en/interests.html %}
+          {% include pro/resumeen/interests.html %}
         {% else %}
         {% endcase %}
       {% endfor %}
