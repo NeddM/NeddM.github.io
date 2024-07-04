@@ -1,5 +1,5 @@
 ---
-layout: resume-es
+layout: resumees
 title: Currículum
 description: >
   Currículum de Nedd Chairi. DevSecOps en Banco Santander y desarrollador de software autodidacta.
