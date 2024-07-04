@@ -182,7 +182,7 @@ resume:
   volunteer-en:        Volunteer
   volunteer_title-en:  <!--position--> at <!--organization-->
   education-en:        Education
-  education_title-en:  <!--study_type--> in <!--area--> from <!--institution--> with GPA of <!--gpa-->
+  education_title-en:  <!--study_type--> in <!--area--> from <!--institution-->
   courses-en:          Courses
   awards-en:           Awards
   awards_title-en:     <!--title--> from <!--awarder-->
