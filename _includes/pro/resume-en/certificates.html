@@ -1,0 +1,31 @@
+{% if resume.certificates.size > 0 %}
+<section>
+  <div class="npb">
+    <h2 id="certificates" class="h3 hr-bottom">
+      {{ strings.resume.certificates | default:"Certificates" }}
+      <span class="symbol {{ icons.awards | default:'icon-trophy' }}"></span>
+    </h2>
+    {% for certificate in resume.certificates %}
+    <section>
+      <header class="{% unless forloop.first %}mt2{% endunless %}">
+        <h3 class="h4 faded">
+          <span class="bc">{{ certificate.name }}</span>
+          {% if certificate.issuer %}
+            {{ " por " }}
+            <span class="bc">{{ certificate.issuer }}</span>
+          {% endif %}
+        </h3>
+        <p class="faded">
+          {{ certificate.date }}
+        </p>
+      </header>
+
+      {% if certificate.url %}
+        <a href="{{ certificate.url }}" target="_blank">{{ strings.resume.view_certificate | default:"Ver certificado" }}</a>
+      {% endif %}
+    </section>
+    {% if forloop.first %}</div>{% endif %}
+    {% endfor %}
+</section>
+{% endif %}
+
