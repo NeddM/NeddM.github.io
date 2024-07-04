@@ -1,11 +1,11 @@
-{% if resume.awards-en.size > 0 %}
+{% if resume.awards.size > 0 %}
 <section>
   <div class="npb">
   <h2 id="awards" class="h3 hr-bottom">
     {{ strings.resume.awards-en | default:"Awards" }}
     <span class="symbol {{ icons.awards | default:'icon-trophy' }}"></span>
   </h2>
-  {% for awa in resume.awards-en %}
+  {% for awa in resume.awards %}
   <section>
     <header class="{% unless forloop.first %}mt2{% endunless %}">
       {% if awa.date.size > 0 %}

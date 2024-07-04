@@ -2,7 +2,7 @@
 <section>
   <div class="npb">
     <h2 id="certificates" class="h3 hr-bottom">
-      {{ strings.resume.certificates | default:"Certificates" }}
+      {{ strings.resume.certificates-en | default:"Certificates" }}
       <span class="symbol {{ icons.awards | default:'icon-trophy' }}"></span>
     </h2>
     {% for certificate in resume.certificates %}
@@ -21,7 +21,7 @@
       </header>
 
       {% if certificate.url %}
-        <a href="{{ certificate.url }}" target="_blank">{{ strings.resume.view_certificate | default:"Ver certificado" }}</a>
+        <a href="{{ certificate.url }}" target="_blank">{{ strings.resume.view_certificate | default:"View certificado" }}</a>
       {% endif %}
     </section>
     {% if forloop.first %}</div>{% endif %}
