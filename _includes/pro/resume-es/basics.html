@@ -9,7 +9,7 @@
   %}
     <dt class="faded">
       <span class="{{ icons.location | default:'icon-location' }}" title="{{ strings.resume.location | default:'Location' }}"></span>
-      <span class="sr-only">{{ strings.resume.location-en | default:"Location" }}</span>
+      <span class="sr-only">{{ strings.resume.location-es | default:"Location" }}</span>
     </dt>
 
     {% assign sep = strings.resume.location_separator | default:"," %}
@@ -41,7 +41,7 @@
           <meta property="addressCountry" content="{{ location.countryCode }}"/>
           <span class="country-name p-country-name">{{ country.name }}</span>
         {% else %}
-          <span class="country-name p-country-name" property="addressCountry">España</span>
+          <span class="country-name p-country-name" property="addressCountry">{{ location.countryCode }}</span>
         {% endif %}
       {% endif %}
     </dd>

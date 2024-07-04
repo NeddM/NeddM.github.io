@@ -14,7 +14,7 @@ basics:
     # address: "2712 Broadway S"
     # postalCode: "CA 94115"
     city: "Huelva"
-    countryCode: "ES-es"
+    countryCode: "ESp"
     region: "Andalucía"
   profiles:
     # - network: "Twitter"
