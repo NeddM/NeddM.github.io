@@ -401,6 +401,12 @@
   name: "Eritrea"
   title: "flag for Eritrea"
 -
+  code: "ES-es"
+  emoji: "🇪🇸"
+  unicode: "U+1F1EA U+1F1F8"
+  name: "España"
+  title: "bandera de España"
+-
   code: "ES"
   emoji: "🇪🇸"
   unicode: "U+1F1EA U+1F1F8"
