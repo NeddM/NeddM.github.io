@@ -11,7 +11,7 @@
         <h3 class="h4 faded">
           <span class="bc">{{ certificate.name }}</span>
           {% if certificate.issuer %}
-            {{ " por " }}
+            {{ " by " }}
             <span class="bc">{{ certificate.issuer }}</span>
           {% endif %}
         </h3>
@@ -21,7 +21,7 @@
       </header>
 
       {% if certificate.url %}
-        <a href="{{ certificate.url }}" target="_blank">{{ strings.resume.view_certificate | default:"View certificado" }}</a>
+        <a href="{{ certificate.url }}" target="_blank">{{ strings.resume.view_certificate | default:"View certificate" }}</a>
       {% endif %}
     </section>
     {% if forloop.first %}</div>{% endif %}
