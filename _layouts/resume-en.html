@@ -14,8 +14,8 @@ layout: base
 {% assign from_to_format = strings.date_formats.resume | default:"%b %Y" %}
 
 {% assign nsd = site.hydejack.no_structured_data | default:site.no_structured_data %}
-{% assign resume = page.resume-en | default:site.data.resume-en %}
-{% assign basics = resume-en.basics %}
+{% assign resume = site.data.resume-en %}
+{% assign basics = resume.basics %}
 {% assign no_third_column = page.no_third_column | default:site.hydejack.no_third_column | default:false %}
 
 <article
