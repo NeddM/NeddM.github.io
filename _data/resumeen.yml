@@ -142,6 +142,31 @@ languages:
     fluency: "5/5"
   - language: "English"
     fluency: "4/5"
+
+interests:
+  - name: "Sports"
+    keywords:
+      - "Skate"
+      - "Basketball"
+      - "Climbing"
+      - "Padel"
+  - name: "Music"
+    keywords:
+      - "Beatmaking"
+      - "HipHop"
+      - "Rap"
+      - "Lo-Fi"
+  - name: "Programming"
+    keywords:
+      - "Rust"
+      - "DevOps"
+      - "Backend"
+  - name: "Videogames"
+    keywords:
+      - "Factory games"
+      - "Farming games"
+      - "Comfy games"
+
 # interests:
 #   - name: "Wildlife"
 #     keywords:
