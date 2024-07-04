@@ -11,7 +11,7 @@
   content: "{{ site.data.strings.resume.summary | default:'Summary' }}";
 }
 .layout-resumeen .note-sm:before {
-  content: "{{ site.data.strings.resume.summary | default:'Summary' }}";
+  content: "{{ site.data.strings.resume.summary-en | default:'Summary' }}";
 }
 .layout-resumees .note-sm:before {
   content: "{{ site.data.strings.resume.summary | default:'Summary' }}";
