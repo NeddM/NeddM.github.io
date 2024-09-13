@@ -14,7 +14,7 @@ image:
     480w:  /assets/img/projects/Nonsible1.png
 links:
   - title: Repositorio
-    link: https://github.com/NeddM/nonsible
+    link: "https://www.github.com/NeddM/nonsible"
 accent_color: '#808080'
 accent_image:
   background: '#93C460'
