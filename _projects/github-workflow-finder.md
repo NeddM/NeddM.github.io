@@ -13,7 +13,7 @@ image:
     480w: /assets/img/projects/github-workflow-finder/portada-workflow-finder.png
 links:
   - title: Descarga la extensión
-    link: https://chromewebstore.google.com/detail/github-workflow-finder/cnbkejpmllmplddidfjpifgghdapdlid?hl=es&authuser=3
+    url: https://chromewebstore.google.com/detail/github-workflow-finder/cnbkejpmllmplddidfjpifgghdapdlid?hl=es&authuser=3
 accent_color: "#4a58f0"
 accent_image:
   background: "#262732"

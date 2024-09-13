@@ -14,7 +14,7 @@ image:
     480w:  /assets/img/projects/commit2.png
 links:
   - title: Repositorio
-    link: https://github.com/NeddM/commit2
+    url: https://github.com/NeddM/commit2
 accent_color: '#638D9E'
 accent_image:
   background: '#F5C85F'

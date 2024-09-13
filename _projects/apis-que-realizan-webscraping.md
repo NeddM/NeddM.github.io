@@ -14,7 +14,7 @@ image:
     480w:  /assets/img/projects/webscraping1.png
 links:
   - title: API
-    link: https://rapidapi.com/Nedd/api/noticias-economia-espanol/
+    url: https://rapidapi.com/Nedd/api/noticias-economia-espanol/
 accent_color: '#809E62'
 accent_image:
   background: '#965CB1'
