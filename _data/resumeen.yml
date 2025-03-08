@@ -33,7 +33,7 @@ work:
     startDate: "2023-03-03"
     endDate: ""
     summary: >
-        Working for internal projects and for _Banco Santander (Santander GlobalTech)_. I have been in charge of creating infrastructure, maintaining the application lifecycle (CI/CD), developing innovative solutions, among many other things.
+        Working for internal projects and for _Banco Santander (Santander GlobalTech & Santander UK)_. I have been in charge of creating infrastructure, maintaining the application lifecycle (CI/CD), developing innovative solutions, among many other things.
     highlights:
       - A lot of use of Github Actions, so much so that today I use it for personal functionality.
       - Frequent use of Kubernetes and Helm, to deploy applications and make sure they are working well.
@@ -66,16 +66,16 @@ work:
       - I apply a logical solution to a problem.
       - Programming in the web stack, JavaScript, CSS and HTML.
 
-  - company: "YouTube channel"
-    position: "Content creator"
-    # website: "https://piedpiper.com"
-    startDate: "2024-06-05"
-    endDate: ""
-    summary: >
-        I create content for the networks, where I show my way of learning, inform about new technologies and interesting tools.
-    highlights:
-      - Demonstration that I am passionate about programming.
-      - I keep myself updated with the latest technologies.
+  # - company: "YouTube channel"
+  #   position: "Content creator"
+  #   # website: "https://piedpiper.com"
+  #   startDate: "2024-06-05"
+  #   endDate: ""
+  #   summary: >
+  #       I create content for the networks, where I show my way of learning, inform about new technologies and interesting tools.
+  #   highlights:
+  #     - Demonstration that I am passionate about programming.
+  #     - I keep myself updated with the latest technologies.
 
 certificates:
   - name: "Github Actions"
