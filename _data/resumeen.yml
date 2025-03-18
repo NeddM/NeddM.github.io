@@ -9,7 +9,7 @@ basics:
   phone: "+34 697 92 24 71"
   website: "https://neddm.github.io/"
   summary: >
-    Hi, my name is _Nedd_ and I'm _DevSecOps_. In my free time I love programming with languages like Rust or Golang, I consider myself a creative guy who likes to find solutions to problems. I'm also a person committed to free software and I like to be informed about the latest technologies.
+    Hi, my name is _Nedd_ and I'm _DevOps_. In my free time I love programming with, I consider myself a creative guy who likes to find solutions to problems. I'm also a person committed to free software and I like to be informed about the latest technologies.
   location:
     # address: "2712 Broadway S"
     # postalCode: "CA 94115"
@@ -28,7 +28,7 @@ basics:
       url: "https://www.github.com/NeddM/"
 work:
   - company: "Banco Santander through Stemdo"
-    position: "DevSecOps"
+    position: "DevOps"
     website: "https://stemdo.io"
     startDate: "2023-03-03"
     endDate: ""
