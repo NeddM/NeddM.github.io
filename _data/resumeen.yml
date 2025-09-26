@@ -37,14 +37,16 @@ work:
     highlights:
       - A lot of use of Github Actions.
       - Daily use of Kubernetes and Helm, to deploy applications and make sure they are working well.
+      - SRE tasks like monitoring, dashboards management in technologies like Dynatrace or Grafana.
+      - Tareas de SRE (Monitoreo, gestión de dashboards...)
       - Scripting and programming in different languages, such as Bash, JavaScript, TypeScript, Python, Powershell...
       - Creating images for Docker containers.
       - Creating infrastructure as code using Terraform with providers such as Azure or AWS.
       - Expertise using Git, with different branching strategies like TBD or Git-Flow.
       - APIs development for different purposes.
+      - Oncalls for productive environments.
       - Use of SCRUM dashboards like Jira or Github Projects to organize tasks.
       - Supervision of teams in different projects, leading my colleagues in tasks.
-      - Oncalls for productive environments.
 
   # - company: "Nonsible"
   #   position: "Developer"
@@ -163,11 +165,11 @@ interests:
       - "Rust"
       - "DevOps"
       - "Backend"
-  - name: "Videogames"
-    keywords:
-      - "Factory games"
-      - "Farming games"
-      - "Comfy games"
+  # - name: "Videogames"
+  #   keywords:
+  #     - "Factory games"
+  #     - "Farming games"
+  #     - "Comfy games"
 
 # interests:
 #   - name: "Wildlife"
