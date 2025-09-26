@@ -35,37 +35,39 @@ work:
     summary: >
         Estuve trabajando para proyectos internos y para _Banco Santander (Santander GlobalTech y Santander UK)_. Me he encargado de crear infraestructura, de mantener el ciclo de vida de aplicaciones (CI/CD), de desarrollar soluciones innovadoras, entre otras muchas cosas.
     highlights:
-      - Mucho uso de Github Actions, tanto que a día de hoy lo uso para funcionalidades personales.
-      - Uso frecuente de Kubernetes y Helm, para desplegar aplicaciones y asegurarme de que están funcionando bien.
+      - Mucho desarrollo de pipelines en Github Actions.
+      - Uso diario de Kubernetes y Helm, para desplegar aplicaciones y asegurarme de que están funcionando bien.
       - Scripting y programación en distintos lenguajes, como son Bash, JavaScript, TypeScript, Python, Powershell...
       - Creación de imágenes para contenedores Docker.
       - Crear infraestructura como código usando Terraform con providers como Azure o AWS.
       - Expertise usando Git, con distintas estrategias de ramificación como TBD o Git-Flow.
+      - Desarrollo de APIs para distintas soluciones.
       - Uso de tableros SCRUM como Jira o Github Projects para organizar tareas.
       - Supervisión de equipos en distintos proyectos, liderando a mis compañeros en tareas.
+      - Guardias para entornos productivos en distintas aplicaciones, donde me encargo de asegurarme que nuestra infraestructura y clusters están funcionando correctamente.
 
-  - company: "Nonsible"
-    position: "Desarrollador"
-    # website: "https://piedpiper.com"
-    startDate: "2023-09-19"
-    endDate: ""
-    summary: >
-        Proyecto open source creado con _Rust_ para realizar ejecuciones y tareas a través de SSH. Pretende ser una alternativa más ligera de _Ansible_.
-    highlights:
-      - Uso de lenguajes de programación de bajo nivel.
-      - Programación en Rust.
-
-  - company: "Github Workflow Finder"
-    position: "Desarrollador web"
-    # website: "https://piedpiper.com"
-    startDate: "2024-05-11"
-    endDate: ""
-    summary: >
-        Solución a un problema lógico en la plataforma de _Github Actions_. Cuando tenemos que analizar workflows desde la web no tenemos una manera sencilla de dirigirnos a una referencia de otro workflow o action. Gracias a esta _extensión de Google Chrome_ podemos navegar de manera más fluida.
-    highlights:
-      - Aplico una solución lógica a un problema.
-      - Programación en el stack web, JavaScript, CSS y HTML.
-
+  # - company: "Nonsible"
+  #   position: "Desarrollador"
+  #   # website: "https://piedpiper.com"
+  #   startDate: "2023-09-19"
+  #   endDate: ""
+  #   summary: >
+  #       Proyecto open source creado con _Rust_ para realizar ejecuciones y tareas a través de SSH. Pretende ser una alternativa más ligera de _Ansible_.
+  #   highlights:
+  #     - Uso de lenguajes de programación de bajo nivel.
+  #     - Programación en Rust.
+  #
+  # - company: "Github Workflow Finder"
+  #   position: "Desarrollador web"
+  #   # website: "https://piedpiper.com"
+  #   startDate: "2024-05-11"
+  #   endDate: ""
+  #   summary: >
+  #       Solución a un problema lógico en la plataforma de _Github Actions_. Cuando tenemos que analizar workflows desde la web no tenemos una manera sencilla de dirigirnos a una referencia de otro workflow o action. Gracias a esta _extensión de Google Chrome_ podemos navegar de manera más fluida.
+  #   highlights:
+  #     - Aplico una solución lógica a un problema.
+  #     - Programación en el stack web, JavaScript, CSS y HTML.
+  #
   # - company: "Canal de YouTube"
   #   position: "Creador de contenido"
   #   # website: "https://piedpiper.com"

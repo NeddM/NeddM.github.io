@@ -35,37 +35,39 @@ work:
     summary: >
         Working for internal projects and for _Banco Santander (Santander GlobalTech & Santander UK)_. I have been in charge of creating infrastructure, maintaining the application lifecycle (CI/CD), developing innovative solutions, among many other things.
     highlights:
-      - A lot of use of Github Actions, so much so that today I use it for personal functionality.
-      - Frequent use of Kubernetes and Helm, to deploy applications and make sure they are working well.
+      - A lot of use of Github Actions.
+      - Daily use of Kubernetes and Helm, to deploy applications and make sure they are working well.
       - Scripting and programming in different languages, such as Bash, JavaScript, TypeScript, Python, Powershell...
       - Creating images for Docker containers.
       - Creating infrastructure as code using Terraform with providers such as Azure or AWS.
       - Expertise using Git, with different branching strategies like TBD or Git-Flow.
+      - APIs development for different purposes.
       - Use of SCRUM dashboards like Jira or Github Projects to organize tasks.
       - Supervision of teams in different projects, leading my colleagues in tasks.
+      - Oncalls for productive environments.
 
-  - company: "Nonsible"
-    position: "Developer"
-    # website: "https://piedpiper.com"
-    startDate: "2023-09-19"
-    endDate: ""
-    summary: >
-        Open source project created with _Rust_ to perform executions and tasks via SSH. It is intended to be a lighter alternative to _Ansible_.
-    highlights:
-      - Use of low level programming languages.
-      - Rust programming.
-
-  - company: "Github Workflow Finder"
-    position: "Web developer"
-    # website: "https://piedpiper.com"
-    startDate: "2024-05-11"
-    endDate: ""
-    summary: >
-        Solution to a logical problem in the _Github Actions_ platform. When we have to analyze workflows from the web we don't have an easy way to go to a reference of another workflow or action. Thanks to this _extension for Google Chrome_ we can navigate in a more fluid way.
-    highlights:
-      - I apply a logical solution to a problem.
-      - Programming in the web stack, JavaScript, CSS and HTML.
-
+  # - company: "Nonsible"
+  #   position: "Developer"
+  #   # website: "https://piedpiper.com"
+  #   startDate: "2023-09-19"
+  #   endDate: ""
+  #   summary: >
+  #       Open source project created with _Rust_ to perform executions and tasks via SSH. It is intended to be a lighter alternative to _Ansible_.
+  #   highlights:
+  #     - Use of low level programming languages.
+  #     - Rust programming.
+  #
+  # - company: "Github Workflow Finder"
+  #   position: "Web developer"
+  #   # website: "https://piedpiper.com"
+  #   startDate: "2024-05-11"
+  #   endDate: ""
+  #   summary: >
+  #       Solution to a logical problem in the _Github Actions_ platform. When we have to analyze workflows from the web we don't have an easy way to go to a reference of another workflow or action. Thanks to this _extension for Google Chrome_ we can navigate in a more fluid way.
+  #   highlights:
+  #     - I apply a logical solution to a problem.
+  #     - Programming in the web stack, JavaScript, CSS and HTML.
+  #
   # - company: "YouTube channel"
   #   position: "Content creator"
   #   # website: "https://piedpiper.com"
