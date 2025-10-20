@@ -9,7 +9,7 @@ basics:
   phone: "+34 697 92 24 71"
   website: "https://neddm.github.io/"
   summary: >
-    Hi, my name is _Nedd_ and I'm _DevOps_. In my free time I love programming with, I consider myself a creative guy who likes to find solutions to problems. I'm also a person committed to free software and I like to be informed about the latest technologies.
+    Hi!, my name is _Nedd_ and I'm _DevOps_. I consider myself a creative guy who likes to find solutions to problems. I'm also a person committed to free software and I like to be informed about the latest technologies.
   location:
     # address: "2712 Broadway S"
     # postalCode: "CA 94115"
@@ -27,21 +27,20 @@ basics:
       username: "NeddM"
       url: "https://www.github.com/NeddM/"
 work:
-  - company: "Banco Santander through Stemdo"
+  - company: "STEMDO"
     position: "DevOps"
     website: "https://stemdo.io"
     startDate: "2023-03-03"
     endDate: ""
     summary: >
-        Working for internal projects and for _Banco Santander (Santander GlobalTech & Santander UK)_. I have been in charge of creating infrastructure, maintaining the application lifecycle (CI/CD), developing innovative solutions, among many other things.
+        Working for internal projects and for _Banco Santander (Santander Digital Services & Santander UK)_. I have been in charge of creating infrastructure, maintaining the application lifecycle (CI/CD), developing innovative solutions, among many other things.
     highlights:
       - A lot of use of Github Actions.
       - Daily use of Kubernetes and Helm, to deploy applications and make sure they are working well.
       - SRE tasks like monitoring, dashboards management in technologies like Dynatrace or Grafana.
-      - Tareas de SRE (Monitoreo, gestión de dashboards...)
       - Scripting and programming in different languages, such as Bash, JavaScript, TypeScript, Python, Powershell...
       - Creating images for Docker containers.
-      - Creating infrastructure as code using Terraform with providers such as Azure or AWS.
+      - Deploying infrastructure as code using Terraform with providers such as Azure or AWS.
       - Expertise using Git, with different branching strategies like TBD or Git-Flow.
       - APIs development for different purposes.
       - Maintaining Ansible playbooks.
@@ -148,24 +147,24 @@ languages:
   - language: "English"
     fluency: "4/5"
 
-interests:
-  - name: "Sports"
-    keywords:
-      - "Skate"
-      - "Basketball"
-      - "Climbing"
-      - "Padel"
-  - name: "Music"
-    keywords:
-      - "Beatmaking"
-      - "HipHop"
-      - "Rap"
-      - "Lo-Fi"
-  - name: "Programming"
-    keywords:
-      - "Rust"
-      - "DevOps"
-      - "Backend"
+# interests:
+#   - name: "Sports"
+#     keywords:
+#       - "Skate"
+#       - "Basketball"
+#       - "Climbing"
+#       - "Padel"
+#   - name: "Music"
+#     keywords:
+#       - "Beatmaking"
+#       - "HipHop"
+#       - "Rap"
+#       - "Lo-Fi"
+#   - name: "Programming"
+#     keywords:
+#       - "Rust"
+#       - "DevOps"
+#       - "Backend"
   # - name: "Videogames"
   #   keywords:
   #     - "Factory games"

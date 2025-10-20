@@ -9,12 +9,12 @@ basics:
   phone: "+34 697 92 24 71"
   website: "https://neddm.github.io/"
   summary: >
-    ¡Hola!, mi nombre es _Nedd_ y soy _DevOps_. En mi tiempo libre me encanta programar, me considero un chico creativo al que le gusta encontrar soluciones a problemas. Soy también una persona comprometida con el software libre y me gusta estar informado de las últimas tecnologías.
+    ¡Hola!, mi nombre es _Nedd_ y soy _DevOps_. Me considero un chico creativo al que le gusta encontrar soluciones a problemas. Soy también una persona comprometida con el software libre y me gusta estar informado de las últimas tecnologías.
   location:
     # address: "2712 Broadway S"
     # postalCode: "CA 94115"
     city: "Huelva"
-    countryCode: "ESP"
+    countryCode: "ES"
     region: "Andalucía"
   profiles:
     # - network: "Twitter"
@@ -27,13 +27,13 @@ basics:
       username: "NeddM"
       url: "https://www.github.com/NeddM/"
 work:
-  - company: "Banco Santander a través de Stemdo"
+  - company: "STEMDO"
     position: "DevOps"
     website: "https://stemdo.io"
     startDate: "2023-03-03"
     endDate: ""
     summary: >
-        Estuve trabajando para proyectos internos y para _Banco Santander (Santander GlobalTech y Santander UK)_. Me he encargado de crear infraestructura, de mantener el ciclo de vida de aplicaciones (CI/CD), de desarrollar soluciones innovadoras, entre otras muchas cosas.
+        Trabajando para proyectos internos y para _Banco Santander (Santander Digital Services y Santander UK)_. Me he encargado de crear infraestructura, de mantener el ciclo de vida de aplicaciones (CI/CD), de desarrollar soluciones innovadoras, entre otras muchas cosas.
     highlights:
       - Mucho desarrollo de pipelines en Github Actions.
       - Uso diario de Kubernetes y Helm, para desplegar aplicaciones y asegurarme de que están funcionando bien.
@@ -134,8 +134,6 @@ education:
 skills:
   - name: "Creatividad"
     level: "Master"
-  - name: "Capacidad de aprendizaje"
-    level: "Master"
   - name: "Liderazgo"
     level: "Master"
   - name: "Pensamiento crítico"
@@ -147,24 +145,24 @@ languages:
   - language: "Inglés"
     fluency: "4/5"
 
-interests:
-  - name: "Deportes"
-    keywords:
-      - "Skate"
-      - "Baloncesto"
-      - "Escalada"
-      - "Padel"
-  - name: "Música"
-    keywords:
-      - "Beatmaking"
-      - "HipHop"
-      - "Rap"
-      - "Lo-Fi"
-  - name: "Programación"
-    keywords:
-      - "Rust"
-      - "DevOps"
-      - "Backend"
+# interests:
+#   - name: "Deportes"
+#     keywords:
+#       - "Skate"
+#       - "Baloncesto"
+#       - "Escalada"
+#       - "Padel"
+#   - name: "Música"
+#     keywords:
+#       - "Beatmaking"
+#       - "HipHop"
+#       - "Rap"
+#       - "Lo-Fi"
+#   - name: "Programación"
+#     keywords:
+#       - "Rust"
+#       - "DevOps"
+#       - "Backend"
   # - name: "Videojuegos"
   #   keywords:
   #     - "Juegos de gestión de recursos"
