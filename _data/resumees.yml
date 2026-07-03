@@ -3,13 +3,13 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Nedd Chairi Muñoz"
-  label: "DevOps y programador"
+  label: "Ingeniero DevOps / SRE"
   picture: "/assets/img/nedd240x240.jpg"
   email: "neddchairiweb@gmail.com"
   phone: "+34 697 92 24 71"
   website: "https://neddm.github.io/"
   summary: >
-    ¡Hola!, mi nombre es _Nedd_ y soy _DevOps_. Me considero un chico creativo al que le gusta encontrar soluciones a problemas. Soy también una persona comprometida con el software libre y me gusta estar informado de las últimas tecnologías.
+    Ingeniero DevOps / SRE con experiencia en Kubernetes, Terraform, CI/CD, observabilidad y automatización de infraestructura cloud en entornos productivos. He trabajado con Google Cloud Platform, AWS y Azure, operando plataformas de microservicios, pipelines de despliegue, dashboards, alertas y automatizaciones con Python, Bash y Go. Me enfoco en construir sistemas fiables, escalables y fáciles de operar.
   location:
     # address: "2712 Broadway S"
     # postalCode: "CA 94115"
@@ -26,27 +26,43 @@ basics:
     - network: "GitHub"
       username: "NeddM"
       url: "https://www.github.com/NeddM/"
+
 work:
-  - company: "STEMDO"
-    position: "DevOps"
-    website: "https://stemdo.io"
-    startDate: "2023-03-03"
+  - company: "Top Doctors Group"
+    position: "Ingeniero DevOps / SRE"
+    website: "https://topdoctorsgroup.com"
+    startDate: "2026-01-07"
     endDate: ""
     summary: >
-        Trabajando para proyectos internos y para _Banco Santander (Santander Digital Services y Santander UK)_. Me he encargado de crear infraestructura, de mantener el ciclo de vida de aplicaciones (CI/CD), de desarrollar soluciones innovadoras, entre otras muchas cosas.
+      Gestión, automatización y mantenimiento de infraestructura cloud y plataformas de microservicios para distintos proyectos del grupo, con foco en Kubernetes, CI/CD, observabilidad, seguridad operativa y mejora continua de entornos productivos.
     highlights:
-      - Mucho desarrollo de pipelines en Github Actions.
-      - Uso diario de Kubernetes y Helm, para desplegar aplicaciones y asegurarme de que están funcionando bien.
-      - Tareas de SRE como monitoreo o gestión de dashboards en tecnologías como Dynatrace o Grafana.
-      - Scripting y programación en distintos lenguajes, como son Bash, JavaScript, TypeScript, Python, Powershell...
-      - Creación de imágenes para contenedores Docker.
-      - Crear infraestructura como código usando Terraform con providers como Azure o AWS.
-      - Expertise usando Git, con distintas estrategias de ramificación como TBD o Git-Flow.
-      - Desarrollo de APIs para distintas soluciones.
-      - Mantenimiento de playbooks de Ansible.
-      - Guardias para entornos productivos en distintas aplicaciones, donde me encargo de asegurarme que nuestra infraestructura y clusters están funcionando correctamente.
-      - Uso de tableros SCRUM como Jira o Github Projects para organizar tareas.
-      - Supervisión de equipos en distintos proyectos, liderando a mis compañeros en tareas.
+      - Gestión de infraestructura cloud en GCP y AWS mediante Terraform.
+      - Operación de workloads en Kubernetes con Helm, ingress controllers y Gateway API.
+      - Mantenimiento de pipelines CI/CD para microservicios usando Cloud Build, CircleCI y Bitbucket.
+      - Automatización de tareas operativas con Python, Bash y Go.
+      - Diseño de dashboards y alertas en Grafana, Prometheus, Loki, Tempo y Datadog.
+      - Gestión de secretos y configuración de aplicaciones mediante Google Secret Manager y Kubernetes Secrets.
+      - Contenerización y publicación de imágenes con Docker, Podman y Artifact Registry.
+      - Soporte a despliegues productivos, troubleshooting de incidentes y mejora continua de la plataforma.
+
+  - company: "STEMDO"
+    position: "Ingeniero DevOps / SRE"
+    website: "https://stemdo.io"
+    startDate: "2023-03-03"
+    endDate: "2026-01-07"
+    summary: >
+      Participación en proyectos internos y en servicios para Banco Santander, incluyendo Santander Digital Services y Santander UK. Trabajo centrado en la automatización de infraestructura, mantenimiento de plataformas Kubernetes, desarrollo de pipelines CI/CD, observabilidad, soporte a entornos productivos y mejora continua de procesos DevOps/SRE.
+    highlights:
+      - Diseño, desarrollo y mantenimiento de pipelines CI/CD avanzados con GitHub Actions para automatizar build, test, análisis y despliegue de aplicaciones.
+      - Operación diaria de plataformas Kubernetes, gestionando despliegues, configuración, troubleshooting y mantenimiento de workloads mediante Helm.
+      - Creación y evolución de infraestructura como código con Terraform en entornos cloud sobre Azure y AWS.
+      - Desarrollo de automatizaciones y herramientas internas con Bash, Python, JavaScript, TypeScript y PowerShell para reducir tareas manuales y mejorar la eficiencia operativa.
+      - Implementación y mantenimiento de soluciones de observabilidad, monitorización y alertado con Dynatrace, Grafana y herramientas asociadas.
+      - Participación en guardias y soporte a entornos productivos, investigando incidencias, revisando métricas, logs y estado de clusters para garantizar la continuidad del servicio.
+      - Desarrollo de APIs y soluciones internas para automatizar procesos y facilitar integraciones entre equipos y plataformas.
+      - Mantenimiento y mejora de playbooks de Ansible para automatización de configuración y tareas operativas.
+      - Gestión de flujos de trabajo con Git, aplicando estrategias de ramificación como Trunk-Based Development y Git Flow según las necesidades del proyecto.
+      - Coordinación técnica y supervisión de tareas en proyectos internos, colaborando con equipos multidisciplinares bajo metodologías ágiles con Jira y GitHub Projects.
 
   # - company: "Nonsible"
   #   position: "Desarrollador"
@@ -82,8 +98,8 @@ work:
   #     - Me mantengo actualizado con las últimas tecnologías.
 
 certificates:
-  - name: "Github Actions"
-    issuer: "Github"
+  - name: "GitHub Actions"
+    issuer: "GitHub"
     date: "2024-02-01"
     url: "https://www.credly.com/badges/2a4f907b-901e-418d-b4fb-726b97c69825/public_url"
 
@@ -131,13 +147,73 @@ education:
 #     releaseDate: "2014-10-01"
 #     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
 #     summary: "Innovative middle-out compression algorithm that changes the way we store data."
+
+# OLD
+# skills:
+#   - name: "Creatividad"
+#     level: "Master"
+#   - name: "Liderazgo"
+#     level: "Master"
+#   - name: "Pensamiento crítico"
+#     level: "Master"
+
 skills:
-  - name: "Creatividad"
-    level: "Master"
-  - name: "Liderazgo"
-    level: "Master"
-  - name: "Pensamiento crítico"
-    level: "Master"
+  - name: "Cloud"
+    keywords:
+      - "Google Cloud Platform"
+      - "AWS"
+      - "Azure"
+      - "Cloud Build"
+      - "CloudFront"
+      - "Route53"
+      - "Secret Manager"
+      - "Artifact Registry"
+
+  - name: "DevOps / SRE"
+    keywords:
+      - "Kubernetes"
+      - "Helm"
+      - "Terraform"
+      - "CI/CD"
+      - "GitHub Actions"
+      - "CircleCI"
+      - "Bitbucket Pipelines"
+      - "Ansible"
+
+  - name: "Observabilidad"
+    keywords:
+      - "Grafana"
+      - "Prometheus"
+      - "Loki"
+      - "Tempo"
+      - "Datadog"
+      - "Dynatrace"
+      - "Alerting"
+
+  - name: "Contenedores"
+    keywords:
+      - "Docker"
+      - "Podman"
+      - "Artifact Registry"
+      - "Container Registry"
+
+  - name: "Programación / Scripting"
+    keywords:
+      - "Python"
+      - "Bash"
+      - "Go"
+      - "JavaScript"
+      - "TypeScript"
+      - "PowerShell"
+
+  - name: "Metodologías y herramientas"
+    keywords:
+      - "Git"
+      - "Trunk-Based Development"
+      - "Git Flow"
+      - "Jira"
+      - "Scrum"
+      - "GitHub Projects"
 
 languages:
   - language: "Español"

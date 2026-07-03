@@ -3,13 +3,13 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Nedd Chairi Muñoz"
-  label: "DevOps and developer"
+  label: "DevOps Engineer / SRE"
   picture: "/assets/img/nedd240x240.jpg"
   email: "neddchairiweb@gmail.com"
   phone: "+34 697 92 24 71"
   website: "https://neddm.github.io/"
   summary: >
-    Hi!, my name is _Nedd_ and I'm _DevOps_. I consider myself a creative guy who likes to find solutions to problems. I'm also a person committed to free software and I like to be informed about the latest technologies.
+    DevOps Engineer / SRE with experience in Kubernetes, Terraform, CI/CD, observability and cloud infrastructure automation in production environments. I have worked with Google Cloud Platform, AWS and Azure, operating microservices platforms, deployment pipelines, dashboards, alerts and automation processes with Python, Bash and Go. I focus on building reliable, scalable and easy-to-operate systems.
   location:
     # address: "2712 Broadway S"
     # postalCode: "CA 94115"
@@ -26,27 +26,43 @@ basics:
     - network: "GitHub"
       username: "NeddM"
       url: "https://www.github.com/NeddM/"
+
 work:
-  - company: "STEMDO"
-    position: "DevOps"
-    website: "https://stemdo.io"
-    startDate: "2023-03-03"
+  - company: "Top Doctors Group"
+    position: "DevOps Engineer / SRE"
+    website: "https://topdoctorsgroup.com"
+    startDate: "2026-01-07"
     endDate: ""
     summary: >
-        Working for internal projects and for _Banco Santander (Santander Digital Services & Santander UK)_. I have been in charge of creating infrastructure, maintaining the application lifecycle (CI/CD), developing innovative solutions, among many other things.
+      Management, automation and maintenance of cloud infrastructure and microservices platforms across different group projects, with a focus on Kubernetes, CI/CD, observability, operational security and continuous improvement of production environments.
     highlights:
-      - A lot of use of Github Actions.
-      - Daily use of Kubernetes and Helm, to deploy applications and make sure they are working well.
-      - SRE tasks like monitoring, dashboards management in technologies like Dynatrace or Grafana.
-      - Scripting and programming in different languages, such as Bash, JavaScript, TypeScript, Python, Powershell...
-      - Creating images for Docker containers.
-      - Deploying infrastructure as code using Terraform with providers such as Azure or AWS.
-      - Expertise using Git, with different branching strategies like TBD or Git-Flow.
-      - APIs development for different purposes.
-      - Maintaining Ansible playbooks.
-      - Oncalls for productive environments.
-      - Use of SCRUM dashboards like Jira or Github Projects to organize tasks.
-      - Supervision of teams in different projects, leading my colleagues in tasks.
+      - Management of cloud infrastructure on Google Cloud Platform and AWS using Terraform.
+      - Operation of Kubernetes workloads with Helm, ingress controllers and Gateway API.
+      - Maintenance of CI/CD pipelines for microservices using Cloud Build, CircleCI and Bitbucket.
+      - Automation of operational tasks with Python, Bash and Go.
+      - Design of dashboards and alerts in Grafana, Prometheus, Loki, Tempo and Datadog.
+      - Management of secrets and application configuration using Google Secret Manager and Kubernetes Secrets.
+      - Containerization and image publishing with Docker, Podman and Artifact Registry.
+      - Support for production deployments, incident troubleshooting and continuous platform improvement.
+
+  - company: "STEMDO"
+    position: "DevOps Engineer / SRE"
+    website: "https://stemdo.io"
+    startDate: "2023-03-03"
+    endDate: "2026-01-07"
+    summary: >
+      Participation in internal projects and services for Banco Santander, including Santander Digital Services and Santander UK. Work focused on infrastructure automation, Kubernetes platform maintenance, CI/CD pipeline development, observability, production support and continuous improvement of DevOps/SRE processes.
+    highlights:
+      - Design, development and maintenance of advanced CI/CD pipelines with GitHub Actions to automate build, test, analysis and application deployment processes.
+      - Daily operation of Kubernetes platforms, managing deployments, configuration, troubleshooting and workload maintenance with Helm.
+      - Creation and evolution of infrastructure as code with Terraform in cloud environments on Azure and AWS.
+      - Development of internal automation tools with Bash, Python, JavaScript, TypeScript and PowerShell to reduce manual tasks and improve operational efficiency.
+      - Implementation and maintenance of observability, monitoring and alerting solutions with Dynatrace, Grafana and related tools.
+      - Participation in on-call rotations and production support, investigating incidents, reviewing metrics, logs and cluster status to ensure service continuity.
+      - Development of APIs and internal solutions to automate processes and support integrations between teams and platforms.
+      - Maintenance and improvement of Ansible playbooks for configuration automation and operational tasks.
+      - Management of Git workflows, applying branching strategies such as Trunk-Based Development and Git Flow depending on project needs.
+      - Technical coordination and task supervision in internal projects, collaborating with multidisciplinary teams under agile methodologies with Jira and GitHub Projects.
 
   # - company: "Nonsible"
   #   position: "Developer"
@@ -54,36 +70,36 @@ work:
   #   startDate: "2023-09-19"
   #   endDate: ""
   #   summary: >
-  #       Open source project created with _Rust_ to perform executions and tasks via SSH. It is intended to be a lighter alternative to _Ansible_.
+  #       Open source project created with _Rust_ to execute tasks over SSH. It aims to be a lighter alternative to _Ansible_.
   #   highlights:
-  #     - Use of low level programming languages.
+  #     - Use of low-level programming languages.
   #     - Rust programming.
   #
-  # - company: "Github Workflow Finder"
-  #   position: "Web developer"
+  # - company: "GitHub Workflow Finder"
+  #   position: "Web Developer"
   #   # website: "https://piedpiper.com"
   #   startDate: "2024-05-11"
   #   endDate: ""
   #   summary: >
-  #       Solution to a logical problem in the _Github Actions_ platform. When we have to analyze workflows from the web we don't have an easy way to go to a reference of another workflow or action. Thanks to this _extension for Google Chrome_ we can navigate in a more fluid way.
+  #       Solution to a navigation problem in the _GitHub Actions_ platform. When analyzing workflows from the web, there is no easy way to jump to references of other workflows or actions. This _Google Chrome extension_ makes navigation more fluid.
   #   highlights:
-  #     - I apply a logical solution to a problem.
-  #     - Programming in the web stack, JavaScript, CSS and HTML.
+  #     - Applied a practical solution to a workflow navigation problem.
+  #     - Web stack development with JavaScript, CSS and HTML.
   #
-  # - company: "YouTube channel"
-  #   position: "Content creator"
+  # - company: "YouTube Channel"
+  #   position: "Content Creator"
   #   # website: "https://piedpiper.com"
   #   startDate: "2024-06-05"
   #   endDate: ""
   #   summary: >
-  #       I create content for the networks, where I show my way of learning, inform about new technologies and interesting tools.
+  #       I create content for social platforms, sharing my learning process and covering new technologies and interesting tools.
   #   highlights:
-  #     - Demonstration that I am passionate about programming.
-  #     - I keep myself updated with the latest technologies.
+  #     - Demonstrates my passion for programming and technology.
+  #     - Helps me stay up to date with the latest technologies.
 
 certificates:
-  - name: "Github Actions"
-    issuer: "Github"
+  - name: "GitHub Actions"
+    issuer: "GitHub"
     date: "2024-02-01"
     url: "https://www.credly.com/badges/2a4f907b-901e-418d-b4fb-726b97c69825/public_url"
 
@@ -91,7 +107,7 @@ certificates:
     issuer: "Amazon Web Services (AWS)"
     date: "2023-07-23"
     url: "https://www.credly.com/badges/a3aa0c3f-064b-48a9-962c-9539d4c781f4/public_url"
-    
+
   - name: "Microsoft Certified: Azure Fundamentals"
     issuer: "Microsoft"
     date: "2023-05-08"
@@ -99,20 +115,20 @@ certificates:
 
 education:
   - institution: "IES La Marisma"
-    area: "Networked Computer Systems Administrator"
-    studyType: "Higher Studies"
+    area: "Networked Computer Systems Administration"
+    studyType: "Higher Vocational Training"
     startDate: "2021-09-07"
     endDate: "2023-06-20"
 
   - institution: "IES Pablo Neruda"
-    area: "Lighting, Image Capture and Treatment Technician"
-    studyType: "Higher Studies"
+    area: "Lighting, Image Capture and Image Processing"
+    studyType: "Higher Vocational Training"
     startDate: "2017-09-11"
     endDate: "2019-06-20"
 
   - institution: "Instituto Prof. José Luis Graiño"
-    area: "Technician in Telecommunications Installations"
-    studyType: "Medium Studies"
+    area: "Telecommunications Installations"
+    studyType: "Intermediate Vocational Training"
     startDate: "2015-10-15"
     endDate: "2017-06-20"
 
@@ -131,13 +147,64 @@ education:
 #     releaseDate: "2014-10-01"
 #     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
 #     summary: "Innovative middle-out compression algorithm that changes the way we store data."
+
 skills:
-  - name: "Creativity"
-    level: "Master"
-  - name: "Leadership"
-    level: "Master" 
-  - name: "Critical thinking"
-    level: "Master" 
+  - name: "Cloud"
+    keywords:
+      - "Google Cloud Platform"
+      - "AWS"
+      - "Azure"
+      - "Cloud Build"
+      - "CloudFront"
+      - "Route53"
+      - "Secret Manager"
+      - "Artifact Registry"
+
+  - name: "DevOps / SRE"
+    keywords:
+      - "Kubernetes"
+      - "Helm"
+      - "Terraform"
+      - "CI/CD"
+      - "GitHub Actions"
+      - "CircleCI"
+      - "Bitbucket Pipelines"
+      - "Ansible"
+
+  - name: "Observability"
+    keywords:
+      - "Grafana"
+      - "Prometheus"
+      - "Loki"
+      - "Tempo"
+      - "Datadog"
+      - "Dynatrace"
+      - "Alerting"
+
+  - name: "Containers"
+    keywords:
+      - "Docker"
+      - "Podman"
+      - "Artifact Registry"
+      - "Container Registry"
+
+  - name: "Programming / Scripting"
+    keywords:
+      - "Python"
+      - "Bash"
+      - "Go"
+      - "JavaScript"
+      - "TypeScript"
+      - "PowerShell"
+
+  - name: "Methodologies and Tools"
+    keywords:
+      - "Git"
+      - "Trunk-Based Development"
+      - "Git Flow"
+      - "Jira"
+      - "Scrum"
+      - "GitHub Projects"
 
 languages:
   - language: "Spanish"
@@ -148,14 +215,14 @@ languages:
 # interests:
 #   - name: "Sports"
 #     keywords:
-#       - "Skate"
+#       - "Skateboarding"
 #       - "Basketball"
 #       - "Climbing"
 #       - "Padel"
 #   - name: "Music"
 #     keywords:
 #       - "Beatmaking"
-#       - "HipHop"
+#       - "Hip Hop"
 #       - "Rap"
 #       - "Lo-Fi"
 #   - name: "Programming"
@@ -163,7 +230,7 @@ languages:
 #       - "Rust"
 #       - "DevOps"
 #       - "Backend"
-  # - name: "Videogames"
+  # - name: "Video Games"
   #   keywords:
   #     - "Factory games"
   #     - "Farming games"
