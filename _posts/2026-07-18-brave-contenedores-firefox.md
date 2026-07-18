@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2026-07-18 00:25:42 +0200
 title: Brave adopta los contenedores de Firefox, y me parece una gran noticia
 description: >
   Brave 1.92 lleva los contenedores al mundo Chromium y eso simplifica mucho la vida a quien mezcla cuentas, trabajo y navegación personal.
