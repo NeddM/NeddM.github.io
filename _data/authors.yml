@@ -8,8 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Mi nombre es Nedd, actualmente trabajo como DevSecOps en Banco Santander. Además soy un apasionado del mundo Linux y del lenguaje de programación Rust.
-    He creado esta web a modo de plataforma, para compartir mis conocimientos, mis proyectos y algunas opiniones.
+    Soy Nedd Chairi Muñoz y trabajo como DevOps en Top Doctors Group, donde me centro en automatización, infraestructura y plataformas fiables.
+
+    Me interesa especialmente el ecosistema Linux, la cultura open source y Rust como herramienta para construir software robusto, eficiente y mantenible.
 
   # This photo will be used in the about section
   picture:
